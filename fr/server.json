@@ -1,6 +1,6 @@
 {
   "allownotifications": "Autoriser les notifications.",
-  "allownotificationsText": "Si vous autorisez les notifications, vous serez informé sur les paiements et les dons.",
+  "allownotificationsText": "Si vous autorisez les notifications, vous serez avertis à chaque paiement ou donation.",
   "youreAlmostDone": "Vous avez presque terminé !",
   "nextClick": " Ensuite, cliquez sur",
   "bitTubeBrowserExtension": "Extension BitTube pour navigateur",
@@ -35,7 +35,7 @@
   "paymentSuccessfull": "Paiement réussi",
   "weTransfered": "Nous avons transféré",
   "tUBEsYourWallet": "TUBEs vers votre portefeuille.",
-  "ThisProcess60Minutes": "This process can take up to 60 minutes until your TUBEs are spendable.","Le processus peut prendre jusqu'à 60 minutes pour que vos TUBEs soient dépensables."
+  "ThisProcess60Minutes": "Le processus peut prendre jusqu'à 60 minutes pour que vos TUBEs soient dépensables."
   "openExplorer": "Ouvrir dans l'explorateur",
   "goToWallet": "Aller au portefeuille",
   "toResendNewEmail": "pour envoyer un nouvel email afin de récupérer votre mot de passe",
