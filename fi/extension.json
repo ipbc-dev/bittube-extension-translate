@@ -63,7 +63,7 @@
   "loginError": "Virhe sisäänkirjautumisessa",
   "thisEmail": "Tämä sähköpostiosoite",
   "alreadyRegister": "on jo rekisteröinyt toisella käyttäjällä, ole hyvä ja yritä kirjautua jo olemassa olevalla tunnuksellasi.",
-  "wallet": "Lompakko",a
+  "wallet": "Lompakko",
   "history": "Histproa",
   "adblock": "Mainosten esto",
   "options": "Valinnat",
@@ -136,5 +136,4 @@
   "yourAccountCatching": "Käyttäjäsi on saavuttamassa",
   "blocksBehind": "lohkoa perässä"
 }
-wallet address
-bxcjYabFDv7V1jumfwyY5tjoX75okxmfrFYZEME5aUSQhW9c88w2xxFdzW1qv6QRjVh7mG3gw96681mM91NTU4h61xhjHRHGE
+
