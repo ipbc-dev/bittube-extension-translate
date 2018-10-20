@@ -46,7 +46,7 @@
   "sendPayment": "Send Payment",
   "pleaseWait": "Please wait...",
   "sendAnotherPayment": "Send another payment",
-  "viewOnlyWallets": "View only wallets can't sent any transactions, as spendkey is unknown",
+  "viewOnlyWallets": "View only wallets can't send any transactions, as spendkey is unknown",
    "receiveText":"Receive funds from any Bittube user.",
    "receiveMoney": "Receive Money",
    "integratedAddress": "Integrated Address",
