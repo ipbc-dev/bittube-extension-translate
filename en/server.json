@@ -25,7 +25,7 @@
   "confirmPasswordRequired": "Confirm password required",
   "confirmPasswordInvalid":  "Confirm password is invalid",
   "confirmPasswordTooShort": "Confirm password is too short",
-  "passwordMatch": "The password doesnt match"
+  "passwordMatch": "The password doesn't match"
   },
   "yourpasswordChanged": "Your password has been changed.",
   "toLoginNewPassword": "to login with your new password.",
