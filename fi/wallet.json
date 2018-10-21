@@ -94,4 +94,3 @@
    "rawTxData": "Käsittelemätön siirtodata joka toimitetaan tietojenkäsittelyyn",
    "rawTxDataText": "Kun painat 'Vahvista', koitetaan tämä maksu lähettää Bittube solmulle. Solmu tekee lisätarkastukset (esim. Onko louhijan palkkio riittävä), ja jos tarkastukset on läpäisty, rahansiirto lähetetään Bittube tietoverkkoon odottamaan louhijoiden varmennusta."
 }
-wallet address: bxcjYabFDv7V1jumfwyY5tjoX75okxmfrFYZEME5aUSQhW9c88w2xxFdzW1qv6QRjVh7mG3gw96681mM91NTU4h61xhjHRHGE
