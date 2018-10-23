@@ -39,5 +39,9 @@
   "openExplorer": "Ouvrir dans l'explorateur",
   "goToWallet": "Aller au portefeuille",
   "toResendNewEmail": "pour envoyer un nouvel email afin de récupérer votre mot de passe",
-  "toResendNewActivationEmail": "pour envoyer un nouvel email de vérification."
+  "toResendNewActivationEmail": "pour envoyer un nouvel email de vérification.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

@@ -39,5 +39,9 @@
   "openExplorer": "Otwórz w eksploratorze",
   "goToWallet": "Idź do portfela",
   "toResendNewEmail": "aby ponownie wysłać nową wiadomość e-mail, aby odzyskać hasło",
-  "toResendNewActivationEmail": "aby ponownie wysłać nową wiadomość aktywacyjną."
+  "toResendNewActivationEmail": "aby ponownie wysłać nową wiadomość aktywacyjną.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

@@ -39,5 +39,9 @@
   "openExplorer": "Avaa explorer",
   "goToWallet": "Mene lompakkoon",
   "toResendNewEmail": "Lähetä uusi sähköposti jolla saat palautettua salasanasi",
-  "toResendNewActivationEmail": "Uudelleenlähetä uusi aktivointi sähköposti."
+  "toResendNewActivationEmail": "Uudelleenlähetä uusi aktivointi sähköposti.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

@@ -42,7 +42,7 @@
     "acceptTermsInvalid": "Accepting terms and conditions is invalid",
     "acceptTermsTooShort": "Accepting terms and conditions is too short"
   },
-  "username": "username",
+  "username": "Username",
   "confirmPassword": "Confirm password",
   "alreadyAccount": "Already have an account?",
   "confirmEmail": "Confirmation e-mail",

@@ -39,5 +39,9 @@
   "openExplorer": "Deschideți în explorator",
   "goToWallet": "Mergi la protofel",
   "toResendNewEmail": "pentru a retrimite un nou e-mail pentru a vă recupera parola",
-  "toResendNewActivationEmail": "pentru a retrimite un nou e-mail de activare."
+  "toResendNewActivationEmail": "pentru a retrimite un nou e-mail de activare.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }
