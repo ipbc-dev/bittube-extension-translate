@@ -39,5 +39,9 @@
   "openExplorer": "Im Explorer öffnen",
   "goToWallet": "Zur Wallet gehen",
   "toResendNewEmail": "um erneut eine E-Mail zu senden, zur Wiederherstellung Ihres Passwortes",
-  "toResendNewActivationEmail": "um erneut eine Aktivierungs-E-Mail zu senden."
+  "toResendNewActivationEmail": "um erneut eine Aktivierungs-E-Mail zu senden.",
+  "ohWell": "Oh well...",
+  "youReceiveNotifications": "You will not receive notifications from us.",
+  "toEnableNotifications": "To enable notifications please follow this",
+  "guide": "Guide"
 }

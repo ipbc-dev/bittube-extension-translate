@@ -39,5 +39,9 @@
   "openExplorer": "Open in explorer",
   "goToWallet": "Go to wallet",
   "toResendNewEmail": "to resend a new email to recover your password",
-  "toResendNewActivationEmail": "to resend a new activation email."
+  "toResendNewActivationEmail": "to resend a new activation email.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

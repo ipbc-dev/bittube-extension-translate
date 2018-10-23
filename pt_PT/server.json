@@ -39,5 +39,9 @@
   "openExplorer": "Abrir no explorador",
   "goToWallet": "Ir para a carteira",
   "toResendNewEmail": "para reenviar um novo correio electrónico para recuperar a tua palavra-passe",
-  "toResendNewActivationEmail": "para reenviar um novo correio electrónico de activação."
+  "toResendNewActivationEmail": "para reenviar um novo correio electrónico de activação.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

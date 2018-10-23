@@ -794,5 +794,28 @@
   "dummy": {
     "message": "Aquesta entrada ha de ser l'última",
     "description": "so we dont need to deal with comma for last entry"
+  }, "blockAllPopups": {
+    "message": "Block all popups"
+  },
+  "blockLargeMedia": {
+    "message": "Block large media"
+  },"disabledCosmeticFiltering": {
+    "message": "Disable cosmetic filtering"
+  },"blockRemoteFonts": {
+    "message": "Block remote fonts"
+  },"disableJavaScript": {
+    "message": "Disable JavaScript"
+  },"extraTools": {
+    "message": "Extra tools for this website"
+  },"dashboard": {
+    "message": "dashboard"
+  },"logger": {
+    "message": "Logger"
+  },
+  "zapperMode": {
+    "message": "Zapper mode"
+  },
+  "pickerMode": {
+    "message": "Picker mode"
   }
 }

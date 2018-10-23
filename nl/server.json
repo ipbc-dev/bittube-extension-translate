@@ -39,5 +39,9 @@
   "openExplorer": "Openen in verkenner",
   "goToWallet": "Ga naar de portemonnee",
   "toResendNewEmail": "om een ​​nieuwe e-mail opnieuw te verzenden om uw wachtwoord te herstellen",
-  "toResendNewActivationEmail": "om een ​​nieuwe activeringsmail opnieuw te verzenden."
+  "toResendNewActivationEmail": "om een ​​nieuwe activeringsmail opnieuw te verzenden.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

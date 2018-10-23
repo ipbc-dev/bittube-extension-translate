@@ -794,5 +794,38 @@
   "dummy": {
     "message": "Esta entrada debe ser la última",
     "description": "so we dont need to deal with comma for last entry"
+  },
+  "blockAllPopups": {
+    "message": "Bloquear ventanas emergentes"
+  },
+  "blockLargeMedia": {
+    "message": "Bloquear medios grandes"
+  },"disabledCosmeticFiltering": {
+    "message": "Deshabilitar el filtrado cosmético"
+  },
+  "blockRemoteFonts": {
+    "message": "Bloquear fuentes remotas"
+  },"disableJavaScript": {
+    "message": "Deshabilitar JavaScript"
+  },
+  "extraTools": {
+    "message": "Herramientas extra para este sitio web."
+  },
+  "dashboard": {
+    "message": "Tablero"
+  },"logger": {
+    "message": "Registros"
+  },
+  "zapperMode": {
+    "message": "Zapper mode"
+  },
+  "pickerMode": {
+    "message": "Picker mode"
+  },
+  "zapperMode": {
+    "message": "Zapper mode"
+  },
+  "pickerMode": {
+    "message": "Picker mode"
   }
 }

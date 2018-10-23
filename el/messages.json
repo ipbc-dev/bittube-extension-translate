@@ -794,5 +794,30 @@
   "dummy": {
     "message": "Αυτή η καταχώρηση θα πρέπει να είναι τελευταία",
     "description": "so we dont need to deal with comma for last entry"
+  },
+  "blockAllPopups": {
+    "message": "Block all popups"
+  },
+  "blockLargeMedia": {
+    "message": "Block large media"
+  },"disabledCosmeticFiltering": {
+    "message": "Disable cosmetic filtering"
+  },"blockRemoteFonts": {
+    "message": "Block remote fonts"
+  },"disableJavaScript": {
+    "message": "Disable JavaScript",
+    "description": "English: since install"
+  },"extraTools": {
+    "message": "Extra tools for this website"
+  },"dashboard": {
+    "message": "dashboard"
+  },"logger": {
+    "message": "Logger"
+  },
+  "zapperMode": {
+    "message": "Zapper mode"
+  },
+  "pickerMode": {
+    "message": "Picker mode"
   }
 }
