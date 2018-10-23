@@ -9,15 +9,15 @@
   "validateForm": {
     "passwordRequired": "Requer palavra-passe",
     "emailRequired": "Requer correio electrónico",
-    "usernameRequired": "Requer nome de utilisador",
+    "usernameRequired": "Requer nome de utilizador",
     "confirmPasswordRequired": "Requer a confirmação da palavra-passe",
     "passwordInvalid": "Palavra-passe é inválida",
     "emailInvalid": "Correio electrónico inválido",
-    "usernameInvalid": "Nome de utilisador inválido",
+    "usernameInvalid": "Nome de utilizador inválido",
     "confirmPasswordInvalid":  "Confimação da palavra-passe é invalida",
     "passwordTooShort": "Palavra-passe é muito pequena",
     "emailTooShort": "Correio electrónico é muito pequeno",
-    "usernameTooShor": "Nome de utilisador é muito pequeno",
+    "usernameTooShor": "Nome de utilizador é muito pequeno",
     "confirmPasswordTooShort": "Confirmação da palavra-passe é muito pequena",
     "emailPasswordWrong": "Correio electrónico ou palavra-passe está errado",
     "emailPasswordMatch": "A palavra-passe não coincide",
@@ -42,11 +42,11 @@
     "acceptTermsInvalid": "Aceitação de termos e condições inválido",
     "acceptTermsTooShort": "Aceitação de termos e condições muito pequena"
   },
-  
+
   "html": {
     "buy": "Buy <span class='font13'>TUBEs</span>"
   },
-  "username": "Nome de utilisador",
+  "username": "Nome de utilizador",
   "confirmPassword": "Confime a palavra-passe",
   "alreadyAccount": "Já tens uma conta?",
   "confirmEmail": "Correio electrónico de confirmação",
@@ -93,7 +93,7 @@
   "OtherAmount": "Outro montante...",
   "donate": "Doar",
   "recoveryPassword": "Recuperar palavra-passe",
-  "emailUsername": "Correio electrónico ou nome de utilisador",
+  "emailUsername": "Correio electrónico ou nome de utilizador",
   "goBackLogin": "Ir para a entrada",
   "sendYouResetPassword": "Nós enviamos-te um correio electrónico com instruções para reiniciares a palavra-passe",
   "creditCard": "Cartão de Crédito",
