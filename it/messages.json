@@ -792,32 +792,32 @@
     "description": "Placeholder string for input field used to capture a keyboard shortcut"
   },
   "dummy": {
-    "message": "This entry must be the last one",
+    "message": "Questo inserimento deve essere l'ultimo",
     "description": "so we dont need to deal with comma for last entry"
   },
   "blockAllPopups": {
-    "message": "Block all popups"
+    "message": "Blocca tutti popup"
   },
   "blockLargeMedia": {
-    "message": "Block large media"
+    "message": "Blocca grandi media"
   },"disabledCosmeticFiltering": {
-    "message": "Disable cosmetic filtering"
+    "message": "Disabilita filtri estetici"
   },"blockRemoteFonts": {
-    "message": "Block remote fonts"
+    "message": "Blocca font remoti"
   },"disableJavaScript": {
-    "message": "Disable JavaScript",
+    "message": "Disabilita JavaScript",
     "description": "English: since install"
   },"extraTools": {
-    "message": "Extra tools for this website"
+    "message": "Strumenti extra per questo sito"
   },"dashboard": {
     "message": "dashboard"
   },"logger": {
     "message": "Logger"
   },
   "zapperMode": {
-    "message": "Zapper mode"
+    "message": "Modalità Zapper"
   },
   "pickerMode": {
-    "message": "Picker mode"
+    "message": "Modalità Picker"
   }
 }
