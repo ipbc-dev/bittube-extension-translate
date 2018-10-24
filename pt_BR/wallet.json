@@ -100,7 +100,7 @@
    "failedGetUnspent":"Não foi possível obter saídas não utilizadas",
    "invalidMixin": "mixin inválida",
    "failedCreateTransaction": "Falha ao criar transação:",
-   "openAliasConfirm": "OpenAlias confirm dialog is already being shown!",
+   "openAliasConfirm": "O diálogo de confirmação do OpenAlias já está sendo mostrado!",
    "openAliasResolutionRejected": "Resolução do OpenAlias rejeitada pelo usuário",
    "transferConfirmDialogAlready": "transferConfirmDialog já está sendo mostrado!",
    "TransferCanceledUser": "Transferência cancelada pelo usuário",
