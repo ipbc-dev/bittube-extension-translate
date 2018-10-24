@@ -44,7 +44,7 @@
   },
 
   "html": {
-    "buy": "اشترِ <span class='font13'>TUBEs</span>"
+    "buy": "<span class='font13'>TUBEs</span> اشترِ"
   },
   "username": "اسم المستخدم",
   "confirmPassword": "تأكيد كلمة السر",
@@ -115,13 +115,13 @@
   "purchaseSuccess": ".الشراء ناجح",
   "purchaseSuccessText": ".اكتملت عملية الشراء بنجاح. سوف تتلقى رسالة بريد إلكتروني تحتوي على تفاصيل الطلب",
   "verifyYourPhone": "اكد على رقم هاتفك او جوالك",
-  "verifyYourPhoneText": ".لمتابعة شراء TUBE ، الرجاء التحقق من رقم هاتفك",
+  "verifyYourPhoneText": ".لمتابعة شراء TUBE ،الرجاء التحقق من رقم هاتفك",
   "confirm": "تؤكد",
   "oneTime": "مره واحده",
   "monthly": "شهريا",
   "walletAddress": ":عنوان المحفظة",
   "paymentID": ":معرف الدفع",
-  "OnDay": "في يوم 13 من كل شهر",
+  "OnDay": ".١ في يوم ١٣ من كل شهر",
   "manageAll": "إدارة كل تبرعاتك المتكررة",
   "chooseStartDate": "اختر تاريخ البدء",
   "to": "إلى",
@@ -144,7 +144,7 @@
   "changeUsername": "غير اسم المستخدم",
   "save": "حفظ",
   "selectLanguage": "اختار اللغة",
-  "referralLink": "TUBE رابط الإحالة لكسب 5",
+  "referralLink": "TUBE رابط الإحالة لكسب ٥",
   "shareReferralLink": "مشاركة رابط الإحالة و",
   "forEachEuccesfull": " .TUBEs لكل تسجيل ناجح تحصل على",
   "referralLinkText": "رابط الإحالة",
@@ -159,11 +159,11 @@
   "delete": "حذف",
   "areYouSure": "هل أنت متأكد من أنك تريد حذف رقم هاتفك؟",
   "toDisable2FA":  "2FA لتعطيل",
-  "type6Digits": ".اكتب رمز 6 أرقام من التطبيق الخاص بك",
+  "type6Digits": ".اكتب رمز ٦ أرقام من التطبيق الخاص بك",
   "aboutUsPage":{
     "title": "متصفح تمديد BitTube",
-    "text1": "BitTube browser extension implements a monetisation model called AirTime℠ into the browsing activity. It rewards website owners and visitors with cryptocurrency called TUBE. Additionally, its functions can be used for donations and transfer of value.",
-    "text2": " After anabling the extension users can see their overall spent time on the Internet. Depending on how much time they spend on a particular website the underlying system monetises the webpages or the user account in cases the visited website is a social network.",
+    "text1": ".بالضافة إلى ذلك ،يمكن أستخدام  وظيفه في التبرعات ونقل القيمة .TUBE تضاء cryptocurrency في نشأت التصفح .يكفي مالكي أ؛موقع وزواره باستخدام AirTime℠ للمتصفح بتندفذ نموذج لتحقيق الدخل يسمى BitTube يقوم ملحق",
+    "text2": ".بعد تمكين التمديد ، يمكن للمستخدمين معرفة الوقت الإجمالي للإنفاق على الإنترنت. اعتمادًا على مقدار الوقت الذي يقضونه في موقع ويب معين ، يقوم النظام الأساسي بتحويل صفحات الويب أو حساب المستخدم في الحالات التي يكون فيها موقع الويب الذي يتم الانتقال إليه عبارة عن شبكة اجتماعية",
     "text3": ".للإضافة لافتات موقع الويب ونشاط التتبع adblocker يزيل",
     "features": ":ميزات",
     "features1": "الوقت الذي يقضيه المكافآت على الإنترنت",
@@ -195,8 +195,8 @@
     "viewKey": ":عرض المفتاح",
     "viewKeyText": ".سلسلة من الأرقام والحروف التي تستخدم للوصول إلى المحفظة الخاصة بك فقط",
     "confirmation": ":التأكيد",
-    "confirmationText": " When a BitTube transaction takes place, the blockchain confirms the transaction’s validity. The confirmation is done by the network every 120 seconds. The transaction is confirmed after at least 10 confirmations.",
-    "bitTubeBrowser": ".SE International BitTube بواسطة  BitTube تم تطوير امتداد متصفح",
+    "confirmationText": ".صيحة المعاملة. يتم التاكيد من قبل الشبكة كل ١٢٠ ثانية. يتم تاكيد المعاملة بعض ١- تأكيدات إلا الأقل. blockchain يقيد ،BitTube عندما تتم مملة",
+    "bitTubeBrowser": ".SE International BitTube بواسطة BitTube تم تطوير امتداد متصفح",،
     "office": "مكتب:",
     "phone": "هاتف:",
     "commercialregister": ":السجل التجاري برلين"
