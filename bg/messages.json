@@ -795,27 +795,27 @@
     "message": "Това поле трябва да бъде последното",
     "description": "so we dont need to deal with comma for last entry"
   }, "blockAllPopups": {
-    "message": "Block all popups"
+    "message": "Блокиране на всички изскачащи прозорци"
   },
   "blockLargeMedia": {
-    "message": "Block large media"
+    "message": "Блокиране на големи файлове"
   },"disabledCosmeticFiltering": {
-    "message": "Disable cosmetic filtering"
+    "message": "Спиране на козметичния филтър"
   },"blockRemoteFonts": {
-    "message": "Block remote fonts"
+    "message": "Блокиране на нелокални шрифтове"
   },"disableJavaScript": {
-    "message": "Disable JavaScript"
+    "message": "Спиране на JavaScript"
   },"extraTools": {
-    "message": "Extra tools for this website"
+    "message": "Допълнителни инструменти за този сайт"
   },"dashboard": {
-    "message": "dashboard"
+    "message": "табло"
   },"logger": {
-    "message": "Logger"
+    "message": "Записванне на данни"
   },
   "zapperMode": {
-    "message": "Zapper mode"
+    "message": "Zapper режим"
   },
   "pickerMode": {
-    "message": "Picker mode"
+    "message": "Picker режим"
   }
 }
