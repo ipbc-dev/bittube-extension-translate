@@ -795,7 +795,7 @@
     "message": "Това поле трябва да бъде последното",
     "description": "so we dont need to deal with comma for last entry"
   }, "blockAllPopups": {
-    "message": "Block all popups"
+    "message": "Блокиране на всички изскачащи прозорци"
   },
   "blockLargeMedia": {
     "message": "Блокиране на големи файлове"
