@@ -39,5 +39,9 @@
   "openExplorer": "Отвори в указателя",
   "goToWallet": "Отиди към портфейла",
   "toResendNewEmail": "да изпрати наново имейл за възстановяване на паролата",
-  "toResendNewActivationEmail": "да изпрати наново активационен имейл."
+  "toResendNewActivationEmail": "да изпрати наново активационен имейл.",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }

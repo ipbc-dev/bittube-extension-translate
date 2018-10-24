@@ -162,6 +162,7 @@
   "type6Digits": ".اكتب رمز 6 أرقام من التطبيق الخاص بك",
   "aboutUsPage":{
     "title": "متصفح تمديد BitTube",
+    "text1": "BitTube browser extension implements a monetisation model called AirTime℠ into the browsing activity. It rewards website owners and visitors with cryptocurrency called TUBE. Additionally, its functions can be used for donations and transfer of value.",
     "text2": " After anabling the extension users can see their overall spent time on the Internet. Depending on how much time they spend on a particular website the underlying system monetises the webpages or the user account in cases the visited website is a social network.",
     "text3": ".للإضافة لافتات موقع الويب ونشاط التتبع adblocker يزيل",
     "features": ":ميزات",

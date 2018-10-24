@@ -39,5 +39,9 @@
   "openExplorer": "فتح في المستكشف",
   "goToWallet": "الذهاب إلى المحفظة",
   "toResendNewEmail": "لإعادة إرسال بريد إلكتروني جديد لاستعادة كلمة المرور الخاصة بك",
-  "toResendNewActivationEmail": ".لإعادة إرسال بريد إلكتروني جديد للتنشيط"
+  "toResendNewActivationEmail": ".لإعادة إرسال بريد إلكتروني جديد للتنشيط",
+  "ohWell": "Oh well...",
+ "youReceiveNotifications": "You will not receive notifications from us.",
+ "toEnableNotifications": "To enable notifications please follow this",
+ "guide": "Guide"
 }
