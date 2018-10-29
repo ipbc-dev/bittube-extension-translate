@@ -44,7 +44,7 @@
   },
   
   "html": {
-    "buy": "Купи <span class='font13'>TUBE</span>"
+    "buy": "Купи <span class='font13'>TUBEs</span>"
   },
   "username": "Потребител",
   "confirmPassword": "Потвърдете паролата",
@@ -200,5 +200,8 @@
     "office": "Офис:",
     "phone": "телефон:",
     "commercialregister": "Бизнес Регистър Берлин:"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",
+   "noHistory": "No History" 
 }

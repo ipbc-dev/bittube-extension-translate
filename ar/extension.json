@@ -196,9 +196,12 @@
     "viewKeyText": ".سلسلة من الأرقام والحروف التي تستخدم للوصول إلى المحفظة الخاصة بك فقط",
     "confirmation": ":التأكيد",
     "confirmationText": ".صيحة المعاملة. يتم التاكيد من قبل الشبكة كل ١٢٠ ثانية. يتم تاكيد المعاملة بعض ١- تأكيدات إلا الأقل. blockchain يقيد ،BitTube عندما تتم مملة",
-    "bitTubeBrowser": ".SE International BitTube بواسطة BitTube تم تطوير امتداد متصفح",،
+    "bitTubeBrowser": ".SE International BitTube بواسطة BitTube تم تطوير امتداد متصفح",
     "office": "مكتب:",
     "phone": "هاتف:",
     "commercialregister": ":السجل التجاري برلين"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",
+  "noHistory": "No History"
 }

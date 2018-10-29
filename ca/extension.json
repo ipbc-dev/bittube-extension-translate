@@ -42,7 +42,7 @@
     "acceptTermsInvalid": "Accepting terms and conditions is invalid",
     "acceptTermsTooShort": "Accepting terms and conditions is too short"
   },
-  
+
   "html": {
     "buy": "Buy <span class='font13'>TUBEs</span>"
   },
@@ -200,5 +200,8 @@
     "office": "Office:",
     "phone": "phone:",
     "commercialregister": "Commercial Register Berlin:"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",
+  "noHistory": "No History"
 }
