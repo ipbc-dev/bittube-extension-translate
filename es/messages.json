@@ -821,11 +821,5 @@
   },
   "pickerMode": {
     "message": "Picker mode"
-  },
-  "zapperMode": {
-    "message": "Zapper mode"
-  },
-  "pickerMode": {
-    "message": "Picker mode"
   }
 }

@@ -44,7 +44,7 @@
   },
 
   "html": {
-    "buy": "<span class='font13'>TUBE</span> kaufen"
+    "buy": "<span class='font13'>TUBEs</span> kaufen"
   },
   "username": "Benutzername",
   "confirmPassword": "Passwort bestätigen",
@@ -114,7 +114,7 @@
   "yourOrderText": "Ihre Bestellung wird mit den folgenden Daten bearbeitet. Bitte stellen Sie sicher, dass Ihre Daten korrekt sind, bevor Sie den Kauf bestätigen.",
   "purchaseSuccess": "Erfolgreicher Kauf",
   "purchaseSuccessText": "Ihr Kauf wurde erfolgreich abgeschlossen. Sie erhalten eine E-Mail mit allen Details.",
-  "verifyYourPhone": "Verifizieren Sie Ihr Telefon",
+  "verifyYourPhone": "Verifizieren",
   "verifyYourPhoneText": "Um weiterhin TUBE zu kaufen, verifizieren Sie Ihre Telefonnummer.",
   "confirm": "Bestätigen",
   "oneTime": "Einmalig",
@@ -122,10 +122,10 @@
   "walletAddress": "Walletadresse:",
   "paymentID": "Zahlungs-ID:",
   "OnDay": "Am 13. eines jeden Monats.",
-  "manageAll": " Verwalten Sie alle Ihre Spenden.",
+  "manageAll": " Verwalten Sie alle Ihre Spenden",
   "chooseStartDate": "Wählen Sie ein Startdatum",
   "to": "aus",
-  "youGet": "Sie erhalten",
+  "youGet": "",
   "selectYourCountry": "Wählen Sie Ihr Land",
   "search": "Suchen",
   "historyFor": "Verlauf für",
@@ -136,7 +136,7 @@
   "helpFor": "Hilfe für",
   "aboutUs": "Über uns",
   "fetching": "Abruf...",
-  "yourAccountCatching": "Ihr Konto wird synchronisiert.",
+  "yourAccountCatching": "Ihr Konto wird synchronisiert",
   "blocksBehind": " Blöcke rückständig",
   "profile": "Profil",
   "security": "Sicherheit",
@@ -152,7 +152,7 @@
   "typeBellow2FA": "Geben Sie unten Ihren 2FA-Code aus Ihrer APP ein.",
   "2FACode": "2FA Code",
   "disable2FA": "Deaktivieren",
-  "enable 2FA":"Aktivieren",
+  "enable2FA":"Aktivieren",
   "toEnable2FA": "Um 2FA zu aktivieren, benötigen Sie eine App, wie z.B.",
   "pleaseInstall":"Bitte installieren Sie eine davon.",
   "deletePhone": "Telefonnummer löschen",
@@ -173,7 +173,7 @@
     "features5": "Erstellen und Verwalten von BitTube-Wallets",
     "features6": "TUBE mit einer Debit- oder Kreditkarte kaufen.",
     "features7": "TUBE mit PayPal kaufen",
-    "features8": "TUBE Zahlungen erhalten",
+    "features8": "TUBE-Zahlungen erhalten",
     "features9": "Gesamtstatistik der im Internet verbrachten Zeit überprüfen",
     "features10": "Transaktionsverlauf der Einnahmen, Einkäufe und Spenden überprüfen",
     "features11": "Webseitenwerbung und Popups blockieren",
@@ -197,8 +197,11 @@
     "confirmation": "Bestätigung:",
     "confirmationText": " Wenn eine BitTube-Transaktion erfolgt, bestätigt die Blockchain die Gültigkeit der Transaktion. Die Bestätigung erfolgt alle 120 Sekunden durch das Netzwerk. Die Transaktion wird nach mindestens 10 Bestätigungen bestätigt.",
     "bitTubeBrowser": " BitTube Browsererweiterung wird entwickelt von BitTube International SE.",
-    "office": "Sitz:",
+    "office": "Firmensitz:",
     "phone": "Tel.:",
     "commercialregister": "Handelsregister Berlin:"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.", 
+  "noHistory": "No History"
 }

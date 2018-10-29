@@ -21,7 +21,7 @@
     "confirmPasswordTooShort": "Potwierdzenie hasła jest za krótkie",
     "emailPasswordWrong": "E-mail lub hasło są niepoprawne",
     "emailPasswordMatch": "Hasło się nie zgadza",
-    "invalidCharacters": "Nieprawidłowe znaki. Dozwolone znaki: "." , "-", "_"",
+    "invalidCharacters": "Nieprawidłowe znaki. Dozwolone znaki: '.' , '-', '_'",
     "emailInUse": "Email już w użyciu",
     "amountRequired": "Kwota jest wymagana",
     "amountInvalid": "Kwota jest nieprawidłowa",
@@ -200,5 +200,8 @@
     "office": "Office:",
     "phone": "phone:",
     "commercialregister": "Commercial Register Berlin:"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.", 
+   "noHistory": "No History" 
 }

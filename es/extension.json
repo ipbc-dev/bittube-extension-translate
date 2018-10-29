@@ -44,7 +44,7 @@
   },
   
   "html": {
-    "buy": "Comprar <span class='font13'>TUBE</span>"
+    "buy": "Comprar <span class='font13'>TUBEs</span>"
   },
   "username":  "Nombre de usuario",
   "confirmPassword":  "Confirmar contraseña",
@@ -114,7 +114,7 @@
   "yourOrderText":  "Tu pedido será procesado con los siguientes datos. Asegúrate de que tus datos sean correctos antes de confirmar la compra.",
   "purchaseSuccess":  "Compra realizada con éxito",
   "purchaseSuccessText":  "Tu compra se ha completado con éxito. Recibirás un email con todos los detalles.",
-  "verifyYourPhone":  "Verifica tu teléfono",
+  "verifyYourPhone":  "Verificar",
   "verifyYourPhoneText":  "Para continuar comprando TUBE, verifica tu número de teléfono por favor.",
   "confirm":  "Confirmar",
   "oneTime":  "Una vez",
@@ -125,7 +125,7 @@
   "manageAll":  "Gestiona todas tus donaciones periódicas",
   "chooseStartDate":  "Elige una fecha de inicio",
   "to":  "a",
-  "youGet":  "Tú recibes",
+  "youGet":  "",
   "selectYourCountry":  "Selecciona tu país",
   "search":  "Buscar",
   "historyFor":  "Historial de",
@@ -141,7 +141,7 @@
   "profile": "Perfil",
   "security": "Seguridad",
   "upload": "Subir",
-  "changeUsername": "Nombre de usuario",
+  "changeUsername": "Nombre",
   "save": "Guardar",
   "selectLanguage": "Idiomas",
   "referralLink": "Enlace de referencia para ganar 5 TUBE.",
@@ -200,5 +200,8 @@
     "office": "Oficinas:",
     "phone": "Teléfono:",
     "commercialregister": "Registro Mercantil de Berlín:"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.", 
+   "noHistory": "No History" 
 }

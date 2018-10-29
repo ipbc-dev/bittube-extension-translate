@@ -149,17 +149,17 @@
   "forEachEuccesfull": "for each succesfull registration you get your TUBEs.",
   "referralLinkText": "Referral link",
   "copy": "Copy",
-  "typeBellow2FA": "Write down your 2FA code from your application.",
+  "typeBellow2FA": "Type your 2FA code from your App below.",
   "2FACode": "2FA Code",
   "disable2FA": "Disable 2FA",
   "enable 2FA":"Enable 2FA",
-  "toEnable2FA": "To enable 2FA you need a 2FA App, like",
-  "pleaseInstall":"Please install on of them.",
+  "toEnable2FA": "To enable 2FA, you will need a 2FA App, such as",
+  "pleaseInstall":"Please install one of them on your phone.",
   "deletePhone": "Delete phone number",
   "delete": "Delete",
   "areYouSure": "Are you sure you want to delete your phone number?",
-  "toDisable2FA":  "To disable 2FA",
-  "type6Digits": "type the 6 digits code from your App.",
+  "toDisable2FA":  "To disable 2FA, type the 6-digit code",
+  "type6Digits": "from your authenticator App.",
   "aboutUsPage":{
     "title": "BitTube Browser Extension",
     "text1": "BitTube browser extension implements a monetisation model called AirTime℠ into the browsing activity. It rewards website owners and visitors with cryptocurrency called TUBE. Additionally, its functions can be used for donations and transfer of value.",
@@ -200,5 +200,8 @@
     "office": "Office:",
     "phone": "phone:",
     "commercialregister": "Commercial Register Berlin:"
-  }
+  },
+  "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
+  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",
+    "noHistory": "No History"
 }
