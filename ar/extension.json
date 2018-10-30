@@ -152,7 +152,7 @@
   "typeBellow2FA": "الخاص بك من التطبيق الخاص بك 'Two-Factor' اكتب رمز",
   "2FACode": "2FA كود",
   "disable2FA": "2FA تعطيل",
-  "enable 2FA":"2FA تمكين",
+  "enable2FA":"2FA تمكين",
   "toEnable2FA": "مثل، 'Two-Factor' يلزمك تنفيذ مصادقة ،'Two-Factor' لتمكين مصادقة",
   "pleaseInstall":".يرجى تثبيت عليها",
   "deletePhone": "حذف رقم الهاتف",
