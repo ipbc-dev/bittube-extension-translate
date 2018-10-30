@@ -791,33 +791,33 @@
     "message": "Įveskite nuorodą",
     "description": "Placeholder string for input field used to capture a keyboard shortcut"
   },
-  "dummy": {
-    "message": "Questo inserimento deve essere l'ultimo",
-    "description": "so we dont need to deal with comma for last entry"
+  "dummy":{
+    "message":"This entry must be the last one",
+    "description":"so we dont need to deal with comma for last entry"
   },
   "blockAllPopups": {
-    "message": "Blocca tutti popup"
+    "message": "Block all popups"
   },
   "blockLargeMedia": {
-    "message": "Blocca grandi media"
+    "message": "Block large media"
   },"disabledCosmeticFiltering": {
-    "message": "Disabilita filtri estetici"
+    "message": "Disable cosmetic filtering"
   },"blockRemoteFonts": {
-    "message": "Blocca font remoti"
+    "message": "Block remote fonts"
   },"disableJavaScript": {
-    "message": "Disabilita JavaScript",
+    "message": "Disable JavaScript",
     "description": "English: since install"
   },"extraTools": {
-    "message": "Strumenti extra per questo sito"
+    "message": "Extra tools for this website"
   },"dashboard": {
     "message": "dashboard"
   },"logger": {
     "message": "Logger"
   },
   "zapperMode": {
-    "message": "Modalità Zapper"
+    "message": "Zapper mode"
   },
   "pickerMode": {
-    "message": "Modalità Picker"
+    "message": "Picker mode"
   }
 }

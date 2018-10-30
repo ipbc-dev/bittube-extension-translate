@@ -152,7 +152,7 @@
   "typeBellow2FA": "Escreva seu código 2FA do seu aplicativo.",
   "2FACode": "2FA Código",
   "disable2FA": "Desabilitar 2FA",
-  "enable 2FA":"Habilitar 2FA",
+  "enable2FA":"Habilitar 2FA",
   "toEnable2FA": "Para habilitar 2FA voce precisa um aplicativo 2FA, como",
   "pleaseInstall":"Por favor, instale um deles.",
   "deletePhone": "Apagar número de telefone",
