@@ -6,6 +6,7 @@
   "bitTubeBrowserExtension": "BitTube браузър добавката",
   "to": "за",
   "signIn": "да влезнете.",
+  "forSignIn": "sign in.",
   "addTo": "Добави към",
   "browser": "браузър",
   "register": "Регистрация",
@@ -49,5 +50,12 @@
  "account": "Account:",
  "theChannel": "The channel",
  "hasBeenAlreadyLinked": "has been already linked.",
- "sorryYouTriedWrongChannel": "Sorry you tried to link the wrong channel."
+ "sorryYouTriedWrongChannel": "Sorry you tried to link the wrong channel.",
+ "landingPage":{
+  "title": "Join the new way of sharing value on the Internet.",
+  "text": "Monetize your time and receive rewards for your web surfing. Buy goods and services anywhere and donate to publishers you support.",
+  "button": "Install now",
+  "footer": "The BitTube browser extension is a revolutionary way for monetizing websites and users worldwide, without ads",
+  "learn": "Learn more"
+}
 }

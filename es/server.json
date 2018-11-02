@@ -6,6 +6,7 @@
   "bitTubeBrowserExtension": "extensión del navegador BitTube",
   "to": "para",
   "signIn": "iniciar sesión.",
+  "forSignIn": "iniciar sesión.",
   "addTo": "Añadir al",
   "browser": "navegador",
   "register": "Registro",
@@ -49,5 +50,12 @@
  "account": "Cuenta:",
  "theChannel": "El canal",
  "hasBeenAlreadyLinked": "ya ha sido vinculado.",
- "sorryYouTriedWrongChannel": "Lo sentimos, intentaste enlazar el canal equivocado."
+ "sorryYouTriedWrongChannel": "Lo sentimos, intentaste enlazar el canal equivocado.",
+ "landingPage":{
+    "title": "Únete a la nueva forma de compartir valor en internet.",
+    "text": "Monetiza tu tiempo y recibe recompensas por tu navegación web. Compre bienes y servicios en cualquier lugar y dónelos a los editores que usted apoya.",
+    "button": "Instalar ahora",
+    "footer": "La extensión del navegador BitTube es una forma revolucionaria de monetizar sitios web y usuarios de todo el mundo, sin anuncios",
+    "learn": "Aprende más"
+  }
 }
