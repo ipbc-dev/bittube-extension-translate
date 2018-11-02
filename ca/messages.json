@@ -64,7 +64,7 @@
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
-    "message": "sol·licituds bloquejades",
+    "message": "Sol·licituds bloquejades",
     "description": "English: requests blocked"
   },
   "popupBlockedOnThisPagePrompt": {
@@ -204,7 +204,7 @@
     "description": ""
   },
   "popupHitDomainCountPrompt": {
-    "message": "dominis connectats",
+    "message": "Dominis connectats",
     "description": "appears in popup"
   },
   "popupHitDomainCount": {
@@ -808,7 +808,7 @@
   },"extraTools": {
     "message": "Extra tools for this website"
   },"dashboard": {
-    "message": "dashboard"
+    "message": "Dashboard"
   },"logger": {
     "message": "Logger"
   },

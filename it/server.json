@@ -43,5 +43,11 @@
   "ohWell": "Oh well...",
  "youReceiveNotifications": "You will not receive notifications from us.",
  "toEnableNotifications": "To enable notifications please follow this",
- "guide": "Guide"
+ "guide": "Guide",
+ "yourChannel": "Your channel",
+ "hasBeenLinked": "has been linked successfully.",
+ "account": "Account:",
+ "theChannel": "The channel",
+ "hasBeenAlreadyLinked": "has been already linked.",
+ "sorryYouTriedWrongChannel": "Sorry you tried to link the wrong channel."
 }

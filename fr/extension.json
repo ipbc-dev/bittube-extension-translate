@@ -44,14 +44,13 @@
   },
   "html": {
     "buy": "acheter des<span class='font13'>TUBEs</span>"
-    
   },
   "username": "Nom d’utilisateur",
   "confirmPassword": "Confirmer le mot-de-passe",
   "alreadyAccount": "Vous avez déjà un compte ?",
   "confirmEmail": "Courriel de confirmation",
   "sentYouEmail": "Nous avons envoyé un courriel à l’adresse suivante",
-  "followInstructions": ", veuillez suivre les instructions pour activer votre compte",
+  "followInstructions": "veuillez suivre les instructions pour activer votre compte",
   "registerPhone": "Veuillez inscrire votre numéro de téléphone",
   "here": "ici",
   "registerPhoneNumber": "Inscrire numéro de téléphone",
@@ -203,5 +202,7 @@
   },
   "toContinueDonation": "Pour poursuivre le processus de don, vous devez vérifier votre numéro de téléphone..",  
   "toContinueTransaction": "Pour continuer la transaction, veuillez entrer le code à 6 chiffres.", 
-   "noHistory": "Pas d'historique" 
-  }
+   "noHistory": "Pas d'historique" ,
+   "singularTube": "TUBE",
+  "pluralTubes": "TUBEs" 
+}

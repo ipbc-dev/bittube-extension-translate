@@ -128,5 +128,9 @@
    "requestSuccessfulImportStart": "Solicitud aceptada. La importación comenzará en breve. Esta ventana se cerrará en pocos segundos.",
    "anUnexpectedServer": "Ocurrió un error inesperado del servidor",
    "yourAccountCatchingUp": "Tu cuenta se está recuperando, tus datos pueden estar desactualizados hasta que finalice",
-   "blocksBehind": "bloques restantes"
+   "blocksBehind": "bloques restantes",
+   "clickThe": "Please click the",
+   "bitTubeBrowserExtension": "BitTube browser extension",
+   "to": "to",
+   "signIn": "sign in."
 }

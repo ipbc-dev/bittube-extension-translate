@@ -43,5 +43,11 @@
   "ohWell": "...اوه حسنا",
  "youReceiveNotifications": ".لن تتلقى إشعارات منا",
  "toEnableNotifications": "لتمكين الإخطارات ، يرجى اتباع هذا",
- "guide": "دليل"
+ "guide": "دليل",
+ "yourChannel": "Your channel",
+ "hasBeenLinked": "has been linked successfully.",
+ "account": "Account:",
+ "theChannel": "The channel",
+ "hasBeenAlreadyLinked": "has been already linked.",
+ "sorryYouTriedWrongChannel": "Sorry you tried to link the wrong channel."
 }

@@ -51,7 +51,7 @@
   "alreadyAccount": "Omistatko jo käyttäjätilin?",
   "confirmEmail": "Vahvista sähköposti",
   "sentYouEmail": "Olemme lähettäneet sinulle sähköpostin osoitteeseen",
-  "followInstructions": ", Ole hyvä ja seuraa ohjeita aktivoidaksesi käyttäjätilisi",
+  "followInstructions": "Ole hyvä ja seuraa ohjeita aktivoidaksesi käyttäjätilisi",
   "registerPhone": "Ole hyvä ja rekisteröi puhelinnumerosi",
   "here": "täällä",
   "registerPhoneNumber": "Rekisteröi puhelinnumero",
@@ -202,7 +202,9 @@
     "commercialregister": "Commercial Register Berlin:"
   },
   "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
-  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",  
-  "noHistory": "No History" 
+  "toContinueTransaction": "To continue transaction, please enter the 6 digits code.",  
+  "noHistory": "No History", 
+  "singularTube": "TUBE",
+ "pluralTubes": "TUBEs" 
 }
 
