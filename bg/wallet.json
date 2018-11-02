@@ -128,5 +128,9 @@
    "requestSuccessfulImportStart": "Заявката е успешна. Внасянето ще започне всеки момент. Прозорецът ще се затвори след няколко секунди.",
    "anUnexpectedServer": "Възникна неочаквана сървърна грешка",
    "yourAccountCatchingUp": "Профила ви се синхронизира, допреди да завърши, показваните данни може да са стари",
-   "blocksBehind": "блока назад"
+   "blocksBehind": "блока назад",
+   "clickThe": "Please click the",
+   "bitTubeBrowserExtension": "BitTube browser extension",
+   "to": "to",
+   "signIn": "sign in."
   }

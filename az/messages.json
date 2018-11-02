@@ -204,7 +204,7 @@
     "description": ""
   },
   "popupHitDomainCountPrompt": {
-    "message": "doaminlər qoşulub",
+    "message": "Doaminlər qoşulub",
     "description": "appears in popup"
   },
   "popupHitDomainCount": {
@@ -808,7 +808,7 @@
   },"extraTools": {
     "message": "Extra tools for this website"
   },"dashboard": {
-    "message": "dashboard"
+    "message": "Dashboard"
   },"logger": {
     "message": "Logger"
   },

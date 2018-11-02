@@ -51,7 +51,7 @@
   "alreadyAccount": "Posiadasz już konto?",
   "confirmEmail": "Email potwierdzający",
   "sentYouEmail": "Wysłaliśmy Ci e-mail do",
-  "followInstructions": ", postępuj zgodnie z instrukcjami, aby aktywować swoje konto",
+  "followInstructions": "Postępuj zgodnie z instrukcjami, aby aktywować swoje konto",
   "registerPhone": "Proszę zarejestrować swój numer telefonu",
   "here": "tutaj",
   "registerPhoneNumber": "Zarejestruj numer telefonu",
@@ -202,6 +202,8 @@
     "commercialregister": "Commercial Register Berlin:"
   },
   "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
-  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.", 
-   "noHistory": "No History" 
+  "toContinueTransaction": "To continue transaction, please enter the 6 digits code.", 
+   "noHistory": "No History", 
+   "singularTube": "TUBE",
+  "pluralTubes": "TUBEs" 
 }

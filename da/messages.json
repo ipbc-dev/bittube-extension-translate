@@ -204,7 +204,7 @@
     "description": ""
   },
   "popupHitDomainCountPrompt": {
-    "message": "forbundne domæner",
+    "message": "Forbundne domæner",
     "description": "appears in popup"
   },
   "popupHitDomainCount": {
@@ -810,7 +810,7 @@
   },"extraTools": {
     "message": "Extra tools for this website"
   },"dashboard": {
-    "message": "dashboard"
+    "message": "Dashboard"
   },"logger": {
     "message": "Logger"
   },

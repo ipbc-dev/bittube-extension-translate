@@ -3,7 +3,7 @@
   "transactionSuccessfull":"Transaction Successfull",
   "hello": "Hello",
   "youHaveReceivedTransaction": "you have received a transaction of",
-  "tubePurchase.": "TUBE from your purchase.",
+  "tubePurchase": "TUBE from your purchase.",
   "purchaseComplete": "Purchase complete",
   "yourPuchaseOf": "Your puchase of",
   "mailText": "TUBEs has been processed successfully. We transfered TUBEs to your wallet.",

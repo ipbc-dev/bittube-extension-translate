@@ -128,5 +128,9 @@
    "requestSuccessfulImportStart": "طلب ناجح. سوف يبدأ الاستيراد بعد قليل. هذه النافذة ستغلق في بضع ثوان.",
    "anUnexpectedServer": "حدث خطأ غير متوقع في الخادم",
    "yourAccountCatchingUp": "حسابك قيد المعالجة ، وقد تكون تفاصيلك قديمة حتى يتم الانتهاء منها",
-   "blocksBehind": "كتل وراء"
+   "blocksBehind": "كتل وراء",
+   "clickThe": "Please click the",
+   "bitTubeBrowserExtension": "BitTube browser extension",
+   "to": "to",
+   "signIn": "sign in."
 }

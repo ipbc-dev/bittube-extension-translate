@@ -42,12 +42,12 @@
     "acceptTermsInvalid": "Accettazione termini e condizioni non valido",
     "acceptTermsTooShort": "Accettazione termini e condizioni troppo corto"
   },
-  "username": "Username",
+   "username": "Username",
   "confirmPassword": "Conferma password",
   "alreadyAccount": "Hai già un account?",
   "confirmEmail": "E-mail di conferma",
   "sentYouEmail": "Abbiamo spedito una e-mail a",
-  "followInstructions": ", segui le istruzioni per attivare il tuo account",
+  "followInstructions": "Segui le istruzioni per attivare il tuo account",
   "registerPhone": "Registra il tuo numero di telefono",
   "here": "qui",
   "registerPhoneNumber": "Registra numero di telefono",
@@ -199,6 +199,8 @@
     "commercialregister": "Commercial Register Berlin:"
   },
   "toContinueDonation": "To continue with the donation process you need to verify your phone number.",  
-  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",
-    "noHistory": "No History" 
+  "toContinueTransaction": "To continue transaction, please enter the 6 digits code.",
+    "noHistory": "No History", 
+    "singularTube": "TUBE",
+   "pluralTubes": "TUBEs" 
 }

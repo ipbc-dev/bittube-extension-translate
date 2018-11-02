@@ -19,13 +19,13 @@
   "confirmPassword": "Confirm password",
   "savePassword": "Save Password",
   "validateForm": {
-  "passwordRequired": "Password required",
-  "passwordInvalid": "Password is invalid",
-  "passwordTooShort": "Password is too short",
-  "confirmPasswordRequired": "Confirm password required",
-  "confirmPasswordInvalid":  "Confirm password is invalid",
-  "confirmPasswordTooShort": "Confirm password is too short",
-  "passwordMatch": "The password doesn't match"
+    "passwordRequired": "Password required",
+    "passwordInvalid": "Password is invalid",
+    "passwordTooShort": "Password is too short",
+    "confirmPasswordRequired": "Confirm password required",
+    "confirmPasswordInvalid":  "Confirm password is invalid",
+    "confirmPasswordTooShort": "Confirm password is too short",
+    "passwordMatch": "The password doesn't match"
   },
   "yourpasswordChanged": "Your password has been changed.",
   "toLoginNewPassword": "to login with your new password.",
@@ -43,5 +43,11 @@
   "ohWell": "Oh well...",
  "youReceiveNotifications": "You will not receive notifications from us.",
  "toEnableNotifications": "To enable notifications please follow this",
- "guide": "Guide"
+ "guide": "Guide",
+ "yourChannel": "Your channel",
+ "hasBeenLinked": "has been linked successfully.",
+ "account": "Account:",
+ "theChannel": "The channel",
+ "hasBeenAlreadyLinked": "has been already linked.",
+ "sorryYouTriedWrongChannel": "Sorry you tried to link the wrong channel."
 }

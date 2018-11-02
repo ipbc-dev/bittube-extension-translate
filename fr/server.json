@@ -43,5 +43,11 @@
   "ohWell": "tant pis...",
  "youReceiveNotifications": "Vous ne recevrez pas de notifications de notre part.",
  "toEnableNotifications": "Pour activer les notifications, veuillez suivre ceci",
- "guide": "Guide"
+ "guide": "Guide",
+ "yourChannel": "Your channel",
+ "hasBeenLinked": "has been linked successfully.",
+ "account": "Account:",
+ "theChannel": "The channel",
+ "hasBeenAlreadyLinked": "has been already linked.",
+ "sorryYouTriedWrongChannel": "Sorry you tried to link the wrong channel."
 }

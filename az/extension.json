@@ -46,12 +46,12 @@
   "html": {
     "buy": "Buy <span class='font13'>TUBEs</span>"
   },
-  "username": "username",
+   "username": "Username",
   "confirmPassword": "Confirm password",
   "alreadyAccount": "Already have an account?",
   "confirmEmail": "Confirmation e-mail",
   "sentYouEmail": "We have sent you an e-mail to",
-  "followInstructions": ", please follow the instructions to activate your account",
+  "followInstructions": "Please follow the instructions to activate your account",
   "registerPhone": "Please register your phone number",
   "here": "here",
   "registerPhoneNumber": "Register phone number",
@@ -202,6 +202,8 @@
     "commercialregister": "Commercial Register Berlin:"
   },
   "toContinueDonation": "To continue with the donation process you need to verify your phone number.",
-  "toContinueTransaction": "To continue transaction, please enter the 6-digits code.",
-  "noHistory": "No History" 
+  "toContinueTransaction": "To continue transaction, please enter the 6 digits code.",
+  "noHistory": "No History" ,
+  "singularTube": "TUBE",
+  "pluralTubes": "TUBEs"
 }
