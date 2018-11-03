@@ -4,10 +4,10 @@
     "hello": "Hola",
     "youHaveReceivedTransaction": "has recibido una transacción de",
     "tubePurchase": "TUBE de tu compra.",
-    "purchaseComplete": "Compra Completada",
+    "purchaseComplete": "Compra completada",
     "yourPuchaseOf": "Tu compra de",
-    "mailText": "TUBE ha sido procesada con éxito. Transfiriendo TUBE a tu cartera.",
-    "mailText2": "Este proceso puede tardar hasta 60 minutos hasta que tus TUBE se puedan gastar.",
+    "mailText": "TUBEs ha sido procesada con éxito. Transfiriendo TUBEs a tu cartera.",
+    "mailText2": "Este proceso puede tardar hasta 60 minutos hasta que tus TUBEs se puedan gastar.",
     "thanks": "Gracias"
    }
 }
