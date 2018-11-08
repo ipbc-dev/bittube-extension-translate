@@ -4,7 +4,7 @@
   "password": "Passwort",
   "haveAccount": "Sie haben noch kein Konto?",
   "singup": "Registrieren",
-  "forgotPassword ": "Passwort vergessen?",
+  "forgotPassword": "Passwort vergessen?",
   "or": "oder",
   "validateForm": {
     "passwordRequired": "Passwort erforderlich",
@@ -205,5 +205,18 @@
   "toContinueTransaction": "Um die Transaktion fortzusetzen, geben Sie bitte den 6 stelligen Code ein!", 
   "noHistory": "Keine Übersicht",
   "singularTube": "TUBE",
-  "pluralTubes": "TUBE"
+  "pluralTubes": "TUBE",
+  "linkAccount": "Link Account",
+  "newAccount": "New account",
+  "alreadyLinked": "Already linked",
+  "pleaseChoosePlatform": "Please choose with which platform you want to link to your account.",
+  "domain": "Domain",
+  "pleaseProvideChannel": "Please provide your channel URL to verify your account.",
+  "channelLink": "Channel link",
+  "verifyNow": "Verify now",
+  "noAccountsLinked": "No accounts linked",
+  "unlinkAccount": "Unlink Account",
+  "areYouSureUnlink": "Are you sure you want to unlink the",
+  "account": "account",
+  "toLinkAccountVerifyPhone": "To link an account you need to verify your phone number."
 }

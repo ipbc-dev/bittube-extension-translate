@@ -57,5 +57,13 @@
   "button": "Install now",
   "footer": "The BitTube browser extension is a revolutionary way for monetizing websites and users worldwide, without ads",
   "learn": "Learn more"
-}
+},
+"toVerifyAccountPlaceCode": "To verify your account please place the code under your biography.",
+"code": "Code",
+"onceYouPasteCode": "Once you have paste the code in your profile click the 'Verify now' button",
+"verifyNow": "Verify now",
+"domainVerification": "Domain verification",
+"toVerifyDomain": "To verify your domain download the following txt file and place it inside the public folder of your domain.",
+"download": "Download",
+"onceYouAddedFile": "Once you have added the file click the 'Verify now' button"
 }

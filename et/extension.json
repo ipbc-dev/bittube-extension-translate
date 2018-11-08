@@ -205,5 +205,18 @@
   "toContinueTransaction": "To continue transaction, please enter the 6 digits code.",  
   "noHistory": "No History", 
   "singularTube": "TUBE",
- "pluralTubes": "TUBEs"
+ "pluralTubes": "TUBEs",
+ "linkAccount": "Link Account",
+  "newAccount": "New account",
+  "alreadyLinked": "Already linked",
+  "pleaseChoosePlatform": "Please choose with which platform you want to link to your account.",
+  "domain": "Domain",
+  "pleaseProvideChannel": "Please provide your channel URL to verify your account.",
+  "channelLink": "Channel link",
+  "verifyNow": "Verify now",
+  "noAccountsLinked": "No accounts linked",
+  "unlinkAccount": "Unlink Account",
+  "areYouSureUnlink": "Are you sure you want to unlink the",
+  "account": "account",
+  "toLinkAccountVerifyPhone": "To link an account you need to verify your phone number."
 }
