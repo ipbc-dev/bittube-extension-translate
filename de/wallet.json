@@ -75,7 +75,7 @@
    "sessionTimedOutText": "Sie wurden aufgrund von Inaktivität abgemeldet.",
    "importTransactions": "Transaktionen importieren",
    "accountDetailsOnly": "Kontodetails",
-   "logout": "Beenden",
+   "logout": "Schliessen",
    "importingtransactions": "Transaktionen importieren",
    "importTransactionsLastBlocks": "Importieren von Transaktionen aus den letzten n Blöcken (kostenfrei)",
    "sinceRoughly1": "n = 1000 seit ca. 1 Tag",

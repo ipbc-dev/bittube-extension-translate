@@ -222,9 +222,9 @@
   "nextstep": "Próximo paso",
   "shareYourReferral": "Comparte el enlace de referencia y gana 5 TUBEs.",
   "forHighestLevel": "Para un mayor nivel de seguridad habilita 2FA.",
-  "willBeActivateSoon": "Será ativado en breve",
+  "willBeActivateSoon": "Será activado en breve",
   "donations": "Donaciones",
-  "donation": "donation",
+  "donation": "Donación",
   "transactionInfo": "Información de transacción",
   "info": "Información",
   "transactionType": "Tipo de transacción",
@@ -234,5 +234,9 @@
   "transactionHash": "Transaction hash",
   "transactionKey": "Transaction key",
   "amount": "Amount",
-  "close": "Close"
+  "close": "Close",
+  "paidBalanceTooltip" : "Total amount of TUBEs paid out to your account since signing up.",
+  "unpaidBalanceTooltip": "Current amount of TUBEs expected to be paid after 7 days of being recorded.",
+  "idTooltip" : "This Airtime ID is a unique identifier tied to your account.",
+  "TheMinimunAmount": "The minimun amount is 0.01 TUBEs"
 }

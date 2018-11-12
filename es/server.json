@@ -45,12 +45,12 @@
   "youReceiveNotifications": "No recibirás notificaciones de nosotros..",
   "toEnableNotifications": "Para habilitar las notificaciones por favor sigue esta",
   "guide": "guía",
-  "yourChannel": "Tu canal",
+  "yourChannel": "Tu cuenta",
  "hasBeenLinked": "ha sido vinculado con éxito.",
  "account": "Cuenta:",
- "theChannel": "El canal",
- "hasBeenAlreadyLinked": "ya ha sido vinculado.",
- "sorryYouTriedWrongChannel": "Lo sentimos, intentaste vincular el canal equivocado.",
+ "theChannel": "La cuenta",
+ "hasBeenAlreadyLinked": "ya ha sido vinculada.",
+ "sorryYouTriedWrongChannel": "Lo sentimos, intentaste vincular la cuenta equivocada.",
  "landingPage":{
     "title": "Únete a la nueva forma de compartir valor en internet.",
     "text": "Monetiza tu tiempo y recibe recompensas por tu navegación web. Compra bienes y servicios en cualquier lugar y apoya a los editores con donaciones.",
@@ -58,12 +58,17 @@
     "footer": "La extensión del navegador BitTube es una forma revolucionaria de monetizar sitios web y usuarios de todo el mundo, sin anuncios",
     "learn": "Aprende más"
   },
-  "toVerifyAccountPlaceCode": "Para verificar su cuenta, coloque el código debajo de su biografía.",
+  "toVerifyAccountPlaceCodeFacebook": "Para verificar tu cuenta, por favor coloca este código en tu perfil de Facebook bajo 'Agregar datos personales'.",
+  "toVerifyAccountPlaceCodeSoundcloud": "Para verificar tu cuenta, por favor coloca este código en tu perfil de Soundcloud bajo 'Editar-Biografía'.",
   "code": "Código",
-  "onceYouPasteCode": "Una vez que haya pegado el código en su perfil, haga clic en el botón 'Verificar ahora'",
+  "onceYouPasteCode": "Una vez que hayas pegado el código en tu perfil, haz clic en el botón 'Verificar ahora'",
   "verifyNow": "Verifica ahora",
   "domainVerification": "Verificación de dominio",
-  "toVerifyDomain": "Para verificar su dominio, descargue el siguiente archivo de texto y colóquelo en la carpeta pública de su dominio.",
+  "toVerifyDomain": "Para verificar tu dominio, descarga el siguiente archivo de texto y colócalo en la carpeta pública de tu dominio.",
   "download": "Descargar",
-  "onceYouAddedFile": "Una vez que haya agregado el archivo, haga clic en el botón 'Verificar ahora'"
+  "onceYouAddedFile": "Una vez que hayas agregado el archivo, haz clic en el botón 'Verificar ahora'",
+  "yourDomain": "Your domain",
+  "anErrorHasOccured": "An error has occured while linking your account. Please try it again later.",
+  "theCodeInYourProfile": "The code in your profile is invalid or has been not found. Please paste the valid code and try it again.",
+  "theCodeUnderDomain": "The code under your domain is not correct or doesn't exists. Please place the file under your public folder and try it again."
 }

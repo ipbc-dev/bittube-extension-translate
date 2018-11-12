@@ -233,5 +233,10 @@
   "transactionHash": "Transaction hash",
   "transactionKey": "Transaction key",
   "amount": "Amount",
-  "close": "Close"
+  "close": "Close",
+  "paidBalanceTooltip" : "Total amount of TUBEs paid out to your account since signing up.",
+  "unpaidBalanceTooltip": "Current amount of TUBEs expected to be paid after 7 days of being recorded.",
+  "idTooltip" : "This Airtime ID is a unique identifier tied to your account.",
+  "TheMinimunAmount": "The minimun amount is 0.01 TUBEs",
+  "balance": "Balance"
 }
