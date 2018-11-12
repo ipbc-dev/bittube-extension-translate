@@ -217,5 +217,21 @@
   "unlinkAccount": "Unlink Account",
   "areYouSureUnlink": "Are you sure you want to unlink the",
   "account": "account",
-  "toLinkAccountVerifyPhone": "To link an account you need to verify your phone number."
+  "toLinkAccountVerifyPhone": "To link an account you need to verify your phone number.",
+  "nextstep": "Next step",
+  "shareYourReferral": "Share your referral link to earn 5 TUBEs.",
+  "forHighestLevel": "For a highest security level enable 2FA.",
+  "willBeActivateSoon": "Will be activate soon",
+  "donations": "Donations",
+  "donation": "donation",
+  "transactionInfo": "Transaction info",
+  "info": "Info",
+  "transactionType": "Transaction type",
+  "sender": "Sender",
+  "receiver": "Receiver",
+  "platform": "Platform",
+  "transactionHash": "Transaction hash",
+  "transactionKey": "Transaction key",
+  "amount": "Amount",
+  "close": "Close"
 }
