@@ -16,7 +16,7 @@
   "dateReceived": "Eingangsdatum",
   "ringSize": "Ringgröße",
   "transactionIDHash": "Transaktions-ID/Hash",
-  "yourBalanceUnlocked": "Ihr Saldo / Freigegebener Saldo",
+  "yourBalanceUnlocked": "Ihr Saldo / Verfügbarer Saldo",
   "fetchingInitialData": "Abruf der Kontodaten, bitte warten!",
   "refreshed": "Aktualisiert",
   "transactionsText": "Eine vollständige Aufstellung aller Transaktionen für Ihr Konto.",
@@ -83,6 +83,8 @@
    "sinceRoughly30": "n = 22000 seit ca. 30 Tagen",
    "sinceRoughly90": "n = 66000 seit ca. 90 Tagen",
    "sinceRoughly180": "n = 132000 seit ca. 180 Tagen",
+   
+   
    "ImportRecentTransactions": "Transaktionen importieren",
    "dontImportTransactions": "Keine Transaktionen importieren",
    "youCanSendReceive": "Sie können TUBE von Ihrem Konto senden und empfangen, aber Sie werden keine Transaktionen sehen oder ausgeben können, die Sie bisher erhalten haben.",
@@ -93,7 +95,7 @@
    "cancel": "Abbrechen",
    "rawTxData": "Daten für die Übermittlung an Backend",
    "rawTxDataText": "Nach dem Klicken von 'Bestätigen' wird versucht, diese Transaktion an einen BitTube-Knoten zu senden. Der Knoten führt zusätzliche Überprüfungen der Transaktion durch (z.B. ob die Minergebühr ausreichend ist). Wenn die Tests erfolgreich sind, wird die Transaktion an das BitTube-Netzwerk übermittelt, bis die Bestätigung vorliegt.",
-   "notEnoughSpendable":"Nicht genügend verfügbares Guthaben / Saldo zu niedrig (Sie haben",
+   "notEnoughSpendable":"Nicht genügend verfügbares Guthaben / Saldo zu niedrig. Sie haben",
    "butNeed": "Sie benötigen",
    "estimatedFee": "veranschlagte Gebühr",
    "included" : "enthalten",
@@ -132,5 +134,6 @@
    "clickThe": "Klicken Sie die",
    "bitTubeBrowserExtension": "BitTube Browsererweiterung",
    "to": "um sich",
-   "signIn": "anzumelden."
+   "signIn": "anzumelden.",
+   "bittubeWallet": "BitTube-Wallet"
 }

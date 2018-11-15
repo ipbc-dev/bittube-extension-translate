@@ -1,13 +1,13 @@
 {
  "notifications":{
-  "transactionSuccessfull":"Transaction Successfull",
-  "hello": "Hello",
-  "youHaveReceivedTransaction": "you have received a transaction of",
-  "tubePurchase": "TUBE from your purchase.",
-  "purchaseComplete": "Purchase complete",
-  "yourPuchaseOf": "Your puchase of",
-  "mailText": "TUBEs has been processed successfully. We transfered TUBEs to your wallet.",
-  "mailText2": "This process can take up to 60 minutes until your TUBEs are spendable.",
-  "thanks": "Thanks."
+  "transactionSuccessfull":"Transação completada com sucesso",
+  "hello": "Olá",
+  "youHaveReceivedTransaction": "recebes-te uma transação de",
+  "tubePurchase": "TUBE da tua compra.",
+  "purchaseComplete": "Compra completada",
+  "yourPuchaseOf": "A tua compra de",
+  "mailText": "TUBEs foi processada com êxito. Transferindo os TUBEs para a tua carteira.",
+  "mailText2": "Este processo pode demorar 60 minutos até que os teus TUBEs se possam gastar.",
+  "thanks": "Obrigado."
  }
 }
