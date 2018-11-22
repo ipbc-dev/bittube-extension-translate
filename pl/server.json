@@ -70,5 +70,8 @@
   "yourDomain": "Your domain",
   "anErrorHasOccured": "An error has occured while linking your account. Please try it again later.",
   "theCodeInYourProfile": "The code in your profile is invalid or has been not found. Please paste the valid code and try it again.",
-  "theCodeUnderDomain": "The code under your domain is not correct or doesn't exists. Please place the file under your public folder and try it again."
+  "theCodeUnderDomain": "The code under your domain is not correct or doesn't exists. Please place the file under your public folder and try it again.",
+  "reward": "Reward",
+  "hello": "Hello",
+  "phoneNumberAlreadyUsed": "the phone number has been already used for reward by referral link."
 }

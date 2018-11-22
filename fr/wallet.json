@@ -133,5 +133,6 @@
    "bitTubeBrowserExtension": "BitTube browser extension",
    "to": "to",
    "signIn": "sign in.",
-   "bittubeWallet": "Bittube Wallet"
+   "bittubeWallet": "Bittube Wallet",
+   "transferCanceled": "Transfer canceled"
 }

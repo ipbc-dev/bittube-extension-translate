@@ -1,5 +1,5 @@
 {
-  "overview": "Übersicht",
+  "overview": "Historie",
   "transactions": "Transaktionen",
   "send": "Senden",
   "receive": "Empfangen",
@@ -135,5 +135,6 @@
    "bitTubeBrowserExtension": "BitTube Browsererweiterung",
    "to": "um sich",
    "signIn": "anzumelden.",
-   "bittubeWallet": "BitTube-Wallet"
+   "bittubeWallet": "BitTube-Wallet",
+   "transferCanceled": "Transfer canceled"
 }

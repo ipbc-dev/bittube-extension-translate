@@ -15,7 +15,7 @@
   "value": "Valor",
   "dateReceived": "Fecha de recepción",
   "ringSize": "Tamaño de la firma",
-  "transactionIDHash": "Transacción ID/Hash",
+  "transactionIDHash": "ID/Hash de la transacción",
   "yourBalanceUnlocked": "Tu saldo / Saldo desbloqueado",
   "fetchingInitialData": "Obteniendo datos iniciales ... Por favor espera.",
   "refreshed": "Actualizado",
@@ -48,7 +48,7 @@
   "sendAnotherPayment": "Enviar otro pago",
   "viewOnlyWallets": "Ver solo carteras, no se pueden enviar transacciones, ya que no se conoce la clave de gasto",
   "receiveText":"Recibe fondos de cualquier usuario de BitTube.",
-  "receiveMoney": "Recibir dinero",
+  "receiveMoney": "Recibir TUBEs",
   "integratedAddress": "Dirección integrada",
    "paymentIDMax": "ID de pago (máx. 16 [0-9a-f] caracteres)",
    "finalPaymentID": "ID de pago final",
@@ -68,7 +68,7 @@
    "sizekB": "Tamaño [kB]",
    "noOfConfirmations": "Número de confirmaciones",
    "fee": "Cuota",
-   "timestampAge": "Marca de tiempo (edad)",
+   "timestampAge": "Marca de tiempo",
    "IsCoinbase": "¿Es Coinbase?",
    "viewInBlockchain":"Ver en un explorador de blockchain para más detalles",
    "sessionTimedOut": "Sesión agotada",
@@ -133,5 +133,6 @@
    "bitTubeBrowserExtension": "extensión de navegador BitTube",
    "to": "para",
    "signIn": "iniciar sesión.",
-   "bittubeWallet": "Cartera de Bittube"
+   "bittubeWallet": "Cartera de Bittube",
+   "transferCanceled": "Transferencia canceleda"
 }

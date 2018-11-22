@@ -14,7 +14,7 @@
   "yourAccountActivated": "Ihr Konto wurde aktiviert.",
   "clickThe": "Klicken Sie die",
   "toStartAirTime": "um mit der Verwendung von AirTime zu beginnen.",
-  "resetPassword": "Passwort zurücksetzen",
+  "resetPassword": "Passwort zurücksetzen.",
   "pleaseTypePassword": "Geben Sie hier Ihr neues Passwort ein!",
   "password": "Passwort",
   "confirmPassword": "Passwort bestätigen",
@@ -67,8 +67,11 @@
 "toVerifyDomain": "Um Ihre Domain zu verifizieren, laden Sie folgende Textdatei herunter und legen Sie diese in den öffentlichen Ordner Ihrer Domain.",
 "download": "Herunterladen",
 "onceYouAddedFile": "Nachdem Sie die Textdatei hinzugefügt haben, klicken Sie auf 'Jetzt verifizieren'.",
-"yourDomain": "Your domain",
-"anErrorHasOccured": "An error has occured while linking your account. Please try it again later.",
-"theCodeInYourProfile": "The code in your profile is invalid or has been not found. Please paste the valid code and try it again.",
-"theCodeUnderDomain": "The code under your domain is not correct or doesn't exists. Please place the file under your public folder and try it again."
+"yourDomain": "Ihre Domain",
+"anErrorHasOccured": "Bei der Verlinkung Ihres Kontos ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+"theCodeInYourProfile": "Der Code in Ihrem Profil ist ungültig oder wurde nicht gefunden. Bitte fügen Sie einen gültigen Code ein und versuchen Sie es erneut.",
+"theCodeUnderDomain": "Ihr Domain-Code ist nicht korrekt oder existiert nicht. Bitte legen Sie die Textdatei in Ihren öffentlichen Ordner und versuchen Sie es erneut.",
+"reward": "Reward",
+"hello": "Hello",
+"phoneNumberAlreadyUsed": "the phone number has been already used for reward by referral link."
 }

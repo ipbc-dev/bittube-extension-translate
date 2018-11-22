@@ -5,7 +5,7 @@
   "nextClick": "A continuación, haz clic en la",
   "bitTubeBrowserExtension": "extensión del navegador BitTube",
   "to": "para",
-  "signIn": "iniciar sesión.",
+  "signIn": "iniciar sesión",
   "forSignIn": "iniciar sesión.",
   "addTo": "Añadir al",
   "browser": "navegador",
@@ -67,8 +67,11 @@
   "toVerifyDomain": "Para verificar tu dominio, descarga el siguiente archivo de texto y colócalo en la carpeta pública de tu dominio.",
   "download": "Descargar",
   "onceYouAddedFile": "Una vez que hayas agregado el archivo, haz clic en el botón 'Verificar ahora'",
-  "yourDomain": "Your domain",
-  "anErrorHasOccured": "An error has occured while linking your account. Please try it again later.",
-  "theCodeInYourProfile": "The code in your profile is invalid or has been not found. Please paste the valid code and try it again.",
-  "theCodeUnderDomain": "The code under your domain is not correct or doesn't exists. Please place the file under your public folder and try it again."
+  "yourDomain": "Tu dominio",
+  "anErrorHasOccured": "Se ha producido un error al vincular su cuenta. Por favor,inténtelo de nuevo más tarde.",
+  "theCodeInYourProfile": "El código de tu perfil no es válido o no se ha encontrado. Por favor, pega el código válido e inténtalo de nuevo.",
+  "theCodeUnderDomain": "El código de tu dominio no es correcto o no existe. Por favor, coloca el archivo debajo de tu carpeta pública e inténtalo de nuevo.",
+  "reward": "Recompensa",
+  "hello": "Hola",
+  "phoneNumberAlreadyUsed": "el número de teléfono ya ha sido usado para la recompensa del enlace de referencia."
 }

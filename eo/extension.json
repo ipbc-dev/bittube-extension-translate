@@ -253,5 +253,15 @@
   "donationError": "Donation error",
   "anErrorOccurredDonation": "An error has occurred and the donation has not been sent.",
   "tryAgainLater": "Please try again later",
-  "pleaseProtocolDomain": "Please enter the protocol of your domain"
+  "pleaseProtocolDomain": "Please enter the protocol of your domain",
+  "channelLinkRequired": "Channel link is required",
+  "AccountLinkRequired": "Account URL is required",
+  "fieldRequired": "This field is required",
+  "tooShort": "Too short",
+  "yourDonationSuccessfully": "Your donation has been successfully sent to",
+  "fee": "fee",
+  "amountStillCalculated": "Amount is still being calculated",
+  "calculating": "Calculating...",
+  "amountMin1": "Amount min 1",
+  "amountMax100": "Amount max 100"
 }
