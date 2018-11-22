@@ -20,7 +20,7 @@
   "fetchingInitialData": "Fetching initial data... Please wait.",
   "refreshed": "Refreshed",
   "transactionsText": "A complete statement of all transactions for your account.",
-  "previous": "Previus",
+  "previous": "Previous",
   "next": "Next",
   "sendFunds": "Send Funds",
   "sendFundsText":  "Send funds to any Bittube user anywhere in the world",
@@ -132,6 +132,8 @@
    "clickThe": "Please click the",
    "bitTubeBrowserExtension": "BitTube browser extension",
    "to": "to",
-   "signIn": "sign in."
+   "signIn": "sign in.",
+   "bittubeWallet": "Bittube Wallet",
+   "transferCanceled": "Transfer canceled"
 
   }

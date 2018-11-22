@@ -60,7 +60,7 @@
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klicken Sie hier, um uBlock₀ für diese Website zu aktivieren.",
+    "message": "Klicken Sie hier, um uBlock₀ für diese Webseite zu aktivieren.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -164,11 +164,11 @@
     "description": "Tooltip when hovering the top-most cell of the local-rules column."
   },
   "popupTipSaveRules": {
-    "message": "Hier klicken, um deine Änderungen dauerhaft zu übernehmen.",
+    "message": "Hier klicken, um Ihre Änderungen dauerhaft zu übernehmen.",
     "description": "Tooltip when hovering over the padlock in the dynamic filtering pane."
   },
   "popupTipRevertRules": {
-    "message": "Hier klicken, um deine Änderungen rückgängig zu machen.",
+    "message": "Hier klicken, um Ihre Änderungen rückgängig zu machen.",
     "description": "Tooltip when hovering over the eraser in the dynamic filtering pane."
   },
   "popupAnyRulePrompt": {
@@ -344,7 +344,7 @@
     "description": "A button in the in the _3rd-party filters_ pane"
   },
   "3pPurgeAll": {
-    "message": "Leere alle Cache-Speicher",
+    "message": "Leeren Sie alle Cache-Speicher",
     "description": "A button in the in the _3rd-party filters_ pane"
   },
   "3pParseAllABPHideFiltersPrompt1": {
@@ -724,11 +724,11 @@
     "description": "English: List of filter list names follows"
   },
   "docblockedBack": {
-    "message": "Gehe zurück",
+    "message": "Zurück gehen",
     "description": "English: Go back"
   },
   "docblockedClose": {
-    "message": "Schließe dieses Fenster",
+    "message": "Schließen Sie dieses Fenster",
     "description": "English: Close this window"
   },
   "docblockedProceed": {
@@ -806,7 +806,7 @@
   },"disableJavaScript": {
     "message": "Disable JavaScript"
   },"extraTools": {
-    "message": "Extra tools for this website"
+    "message": "Extra-Tools für diese Webseite"
   },"dashboard": {
     "message": "Dashboard"
   },"logger": {
