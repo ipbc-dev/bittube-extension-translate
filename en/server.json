@@ -33,7 +33,7 @@
   "theLinkExpired": "The link has expired.",
   "paymentError": "Payment error",
   "somethingWrong": "Something went wrong during the purchase, we have not charged your account, please try again.",
-  "paymentSuccessfull": "Payment successfull",
+  "paymentSuccessfull": "Payment successful",
   "weTransfered": "We transfered",
   "tUBEsYourWallet": "TUBEs to your wallet.",
   "ThisProcess60Minutes": "This process can take up to 60 minutes until your TUBEs are spendable.",
@@ -57,5 +57,22 @@
    "button": "Install now",
    "footer": "The BitTube browser extension is a revolutionary way for monetizing websites and users worldwide, without ads",
    "learn": "Learn more"
- }
+ },
+ "toVerifyAccountPlaceCodeFacebook": "To verify your account please place this code in your Facebook profil under 'Add Bio'.",
+ "toVerifyAccountPlaceCodeSoundcloud": "To verify your account please place this code in your Soundcloud profil under 'Edit-Bio'.",
+ "code": "Code",
+ "onceYouPasteCode": "Once you have paste the code in your profile click the 'Verify now' button",
+ "verifyNow": "Verify now",
+ "domainVerification": "Domain verification",
+ "toVerifyDomain": "To verify your domain download the following txt file and place it inside the public folder of your domain.",
+ "download": "Download",
+ "onceYouAddedFile": "Once you have added the file click the 'Verify now' button",
+ "yourDomain": "Your domain",
+ "anErrorHasOccured": "An error has occured while linking your account. Please try it again later.",
+ "theCodeInYourProfile": "The code in your profile is invalid or has been not found. Please paste the valid code and try it again.",
+ "theCodeUnderDomain": "The code under your domain is not correct or doesn't exists. Please place the file under your public folder and try it again.",
+ "reward": "Reward",
+ "hello": "Hello",
+ "phoneNumberAlreadyUsed": "the phone number has been already used for reward by referral link."
+
 }
