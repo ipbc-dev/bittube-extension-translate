@@ -2,13 +2,13 @@
  "notifications":{
   "transactionSuccessfull":"Succesvolle transactie",
   "hello": "Hallo",
-  "youHaveReceivedTransaction": "Je hebt een transactie ontvangen van",
-  "tubePurchase": "TUBE van je aankoop.",
+  "youHaveReceivedTransaction": "U heeft een transactie ontvangen van",
+  "tubePurchase": "TUBE van uw aankoop.",
   "purchaseComplete": "Aankoop voltooid",
-  "yourPuchaseOf": "Jouw aankoop van",
-  "mailText": "TUBE's zijn succesvol verwerkt. De TUBE's zijn verzonden naar je wallet.",
-  "mailText2": "Dit proces kan tot 1 uur duren totdat je TUBE's uit te geven zijn.",
+  "yourPuchaseOf": "Uw aankoop van",
+  "mailText": "TUBE's zijn succesvol verwerkt. De TUBE's zijn verzonden naar uw wallet.",
+  "mailText2": "Dit proces kan tot 1 uur duren totdat uw TUBE's uit te geven zijn.",
   "thanks": "Bedankt.",
-  "tubeForYou": "TUBE voor jou"
+  "tubeForYou": "TUBE voor u"
  }
 }
