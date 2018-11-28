@@ -92,7 +92,7 @@
     "description": "Tooltip for the element-zapper icon in the popup panel"
   },
   "popupTipPicker": {
-    "message": "Öffne den Element-Picker-Modus",
+    "message": "Element-Picker-Modus öffnen",
     "description": "English: Enter element picker mode"
   },
   "popupTipLog": {
@@ -548,7 +548,7 @@
     "description": "English: filter log entries"
   },
   "logMaxEntriesTip": {
-    "message": "Maximale Anzahl an Protokoll-Einträgen",
+    "message": "Max. Anzahl an Protokoll-Einträgen",
     "description": "Tooltip informaing that the input field is to set the maximum number of entries in the log"
   },
   "loggerURLFilteringContextLabel": {
@@ -795,16 +795,16 @@
     "message": "Dieser Eintrag muss der letzte sein",
     "description": "so we dont need to deal with comma for last entry"
   } , "blockAllPopups": {
-    "message": "Block all popups"
+    "message": "Alle Popups blocken"
   },
   "blockLargeMedia": {
-    "message": "Block large media"
+    "message": "Grosse Medien blocken"
   },"disabledCosmeticFiltering": {
-    "message": "Disable cosmetic filtering"
+    "message": "Kosmetische Filterung deaktivieren"
   },"blockRemoteFonts": {
-    "message": "Block remote fonts"
+    "message": "Remote-Schriften blocken"
   },"disableJavaScript": {
-    "message": "Disable JavaScript"
+    "message": "JavaScript deaktivieren"
   },"extraTools": {
     "message": "Extra-Tools für diese Webseite"
   },"dashboard": {
@@ -813,9 +813,9 @@
     "message": "Logger"
   },
   "zapperMode": {
-    "message": "Zapper mode"
+    "message": "Zapper-Modus"
   },
   "pickerMode": {
-    "message": "Picker mode"
+    "message": "Picker-Modus"
   }
 }
