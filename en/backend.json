@@ -1,14 +1,14 @@
 {
  "notifications":{
-  "transactionSuccessfull":"Transaction Successfull",
-  "hello": "Hello",
-  "youHaveReceivedTransaction": "you have received a transaction of",
-  "tubePurchase": "TUBE from your purchase.",
-  "purchaseComplete": "Purchase complete",
-  "yourPuchaseOf": "Your puchase of",
-  "mailText": "TUBEs has been processed successfully. We transfered TUBEs to your wallet.",
-  "mailText2": "This process can take up to 60 minutes until your TUBEs are spendable.",
-  "thanks": "Thanks.",
-  "tubeForYou": "TUBE for your"
+  "transactionSuccessfull":"عملية ناجحة",
+  "hello": "مرحبا",
+  "youHaveReceivedTransaction": "لقد تلقيت معاملة",
+  "tubePurchase": ".من مشترياتك TUBE",
+  "purchaseComplete": "اكتملت عملية الشراء",
+  "yourPuchaseOf": "شراء الخاص بك",
+  "mailText": ".إلى محافظتك TUBE بنجاح. قمنا بينقل TUBE تمت معالجات ",
+  "mailText2": "قابلة للأنفاق TUBE يمكن أن تستغرق هذه العملية مدة تصل إلى ٦٠ دقيقتان حتى تصبح",
+  "thanks": ".شكر",
+  "tubeForYou": "لك TUBE"
  }
 }
