@@ -129,10 +129,10 @@
    "anUnexpectedServer": "حدث خطأ غير متوقع في الخادم",
    "yourAccountCatchingUp": "حسابك قيد المعالجة ، وقد تكون تفاصيلك قديمة حتى يتم الانتهاء منها",
    "blocksBehind": "كتل وراء",
-   "clickThe": "Please click the",
-   "bitTubeBrowserExtension": "BitTube browser extension",
-   "to": "to",
-   "signIn": "sign in.",
-   "bittubeWallet": "Bittube Wallet",
-   "transferCanceled": "Transfer canceled"
+   "clickThe": "الرجاء الضغط على",
+   "bitTubeBrowserExtension": "للمتصفح BitTube ملحق",
+   "to": "إلى",
+   "signIn": ".تسجيل الدخول",
+   "bittubeWallet": "Bittube المحفظة",
+   "transferCanceled": "نقل ملغى"
 }
