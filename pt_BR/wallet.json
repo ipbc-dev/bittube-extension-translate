@@ -92,7 +92,7 @@
    "confirm": "Confirmar",
    "cancel": "Cancelar",
    "rawTxData": "Dados tx brutos a serem enviados para o back-end",
-   "rawTxDataText": "Depois de pressionar 'Confirmar', será feita uma tentativa de enviar este tx para um nó Bittube. O nó executará verificações adicionais do tx (por exemplo, se a taxa do minerador for suficiente) e, se os testes forem aprovados, o tx será enviado à rede Bittube aguardando a confirmação dos mineiradores.",
+   "rawTxDataText": "Depois de pressionar 'Confirmar', será feita uma tentativa de enviar este tx para um nó Bittube. O nó executará verificações adicionais do tx (por exemplo, se a taxa do minerador for suficiente) e, se os testes forem aprovados, o tx será enviado à rede BitTubeuardando a confirmação dos mineiradores.",
    "notEnoughSpendable":"Não há saídas gastáveis suficientes / saldo muito baixo (tem",
    "butNeed": "mas precisa",
    "estimatedFee": "taxa estimada",
@@ -134,5 +134,6 @@
    "to": "to",
    "signIn": "sign in.",
    "bittubeWallet": "Bittube Wallet",
-   "transferCanceled": "Transfer canceled"
+   "transferCanceled": "Transfer canceled",
+   "unconfirmed": "(unconfirmed)"
   }

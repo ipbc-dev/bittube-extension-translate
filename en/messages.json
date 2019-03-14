@@ -72,8 +72,8 @@
     "description":"English: on this page"
   },
   "popupBlockedStats":{
-    "message":"{{count}} or {{percent}}%",
-    "description":"Example: 15 or 13%"
+    "message":"{{count}}",
+    "description":"Example: 15"
   },
   "popupBlockedSinceInstallPrompt":{
     "message":"since install",
@@ -815,9 +815,9 @@
     "message": "Logger"
   },
   "zapperMode": {
-    "message": "Zapper mode"
+    "message": "Block 1 element"
   },
   "pickerMode": {
-    "message": "Picker mode"
+    "message": "Block same kind of elements"
   }
 }

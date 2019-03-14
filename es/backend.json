@@ -1,6 +1,6 @@
 {
-  "notifications":{
-    "transactionSuccessfull":"Transacción exitosa",
+  "notifications": {
+    "transactionSuccessfull": "Transacción exitosa",
     "hello": "Hola",
     "youHaveReceivedTransaction": "has recibido una transacción de",
     "tubePurchase": "TUBE de tu compra.",
@@ -9,6 +9,26 @@
     "mailText": "TUBEs ha sido procesada con éxito. Transfiriendo TUBEs a tu cartera.",
     "mailText2": "Este proceso puede tardar hasta 60 minutos hasta que tus TUBEs se puedan gastar.",
     "thanks": "Gracias",
-    "tubeForYou": "TUBE para ti"
-   }
+    "tubeForYou": "TUBE para ti",
+    "phoneNumberEntered": "La verificación de",
+    "AlreadyPreviouslyAnother": "has been successful and have exceeded the initial reward of 5 TUBEs.",
+    "EnableAirtimeRewards": "To enable Airtime rewards for your account, please use a unique phone number.",
+    "thankYou": "Gracias",
+    "yourBitTubeTeam": "Tu equio BitTube",
+    "hasAlreadybeenPreviously": "has already been used previously by another account. Airtime rewards are currently disabled. To enable Airtime rewards for your account, please use a unique phone number. Thank you. Your BitTube Team",
+    "phoneVerification": "Phone verification",
+    "dear": "Querido",
+    "yourPhoneNumber": "Tu número de teléfono",
+    "hasBeenUsed": "ha sido verificado correctamente. Airtime está activado!",
+    "notePhoneNumber": "Tenga en cuenta que este número de teléfono se ha utilizado anteriormente para la verificación. Por lo tanto, el bono de registro inicial de 5 TUBEs no se aplica.",
+    "youHaveChoosen": "Ha elegido transferir",
+    "fromYour" : "de su cartera",
+    "toYourBank": "a su cuenta bancaria",
+    "confirmTransfer": "Por favor confirme esta transferencia haciendo clic en el siguiente enlace de confirmación:",
+    "validLink": "Este enlace es válido durante los próximos 30 minutos, después de los cuales esta solicitud de retiro se cancelará automáticamente.",
+    "internationalTransfers" : "Tenga en cuenta que las transferencias bancarias internacionales pueden demorar de 3 a 5 días hábiles en procesarse, a veces más.",
+    "noTransferOrdered": "Si no solicitó esta transferencia, verifique la configuración de seguridad de su cuenta y póngase en contacto con el servicio de asistencia.",
+    "toVerifyBankText": "Para verificar su cuenta bancaria, le enviaremos el equivalente a 0.01 USD. Encontrará la transacción en los próximos días en su extracto bancario. La transacción contiene un código compuesto como",
+    "pleaseUseTheCode": "Utilice este código en la configuración de la Cuenta en 'Convertir mis TUBES' para verificar su cuenta bancaria."
+  }
 }

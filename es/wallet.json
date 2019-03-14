@@ -133,6 +133,7 @@
    "bitTubeBrowserExtension": "extensión de navegador BitTube",
    "to": "para",
    "signIn": "iniciar sesión.",
-   "bittubeWallet": "Cartera de Bittube",
-   "transferCanceled": "Transferencia canceleda"
+   "bittubeWallet": "Cartera de BitTube",
+   "transferCanceled": "Transferencia canceleda",
+   "unconfirmed": "(no confirmado)"
 }

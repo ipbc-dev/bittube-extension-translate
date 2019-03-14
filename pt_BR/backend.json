@@ -9,6 +9,26 @@
   "mailText": "TUBEs foi processada com êxito. Transferindo os TUBEs para a tua carteira.",
   "mailText2": "Este processo pode demorar 60 minutos até que os teus TUBEs se possam gastar.",
   "thanks": "Obrigado.",
-  "tubeForYou": "TUBE for your"
+  "tubeForYou": "TUBE for your",
+  "phoneNumberEntered": "The verification of",
+  "AlreadyPreviouslyAnother": "has been successful and have exceeded the initial reward of 5 TUBEs.",
+  "EnableAirtimeRewards": "To enable Airtime rewards for your account, please use a unique phone number.",
+  "thankYou": "Thank you",
+  "yourBitTubeTeam":"Your BitTube Team",
+  "hasAlreadybeenPreviously": "has already been used previously by another account. Airtime rewards are currently disabled. To enable Airtime rewards for your account, please use a unique phone number. Thank you. Your BitTube Team",
+  "phoneVerification": "Phone verification",
+  "dear" : "Dear",
+  "yourPhoneNumber" : "Your phone number",
+  "hasBeenUsed" : "has been successfully verified for your account. AirTime is now activated!",
+  "notePhoneNumber" : "Please note that this phone number has been used previously for verification. Therefore, the initial sign-up bonus of 5 TUBEs does not apply.",
+  "youHaveChoosen": "You have chosen to transfer",
+  "fromYour" : "from your wallet",
+  "toYourBank": "to your bank account",
+  "confirmTransfer": "Please confirm this transfer by clicking the following confirmation link:",
+  "validLink": "This link is valid for the next 30 minutes, after which this withdrawal request will be automatically cancelled.",
+  "internationalTransfers" : "Please note that international bank transfers can take up to 3-5 working days to process, sometimes more.",
+  "noTransferOrdered": "If you did not order this transfer, please verify your account's security settings and contact support.",
+  "toVerifyBankText": "To verify your bank account, we will send you the equivalent of 0.01 USD. You will find the transaction in the next days in your bank statement. The transaction contains a code composed as",
+  "pleaseUseTheCode": "Please use this code in the Account settings in 'Convert my TUBEs' to verify your bank account."
  }
 }
