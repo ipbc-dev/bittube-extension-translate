@@ -134,5 +134,6 @@
    "to": "to",
    "signIn": "sign in.",
    "bittubeWallet": "Bittube Wallet",
-   "transferCanceled": "Transfer canceled"
+   "transferCanceled": "Transfer canceled",
+   "unconfirmed": "(unconfirmed)"
   }
