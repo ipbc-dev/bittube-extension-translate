@@ -299,16 +299,16 @@
 		"IncludeBadge": "Включите значки AirTime для всех привязанных веб-сайтов и используйте сообщение Airtime в привязанных социальных аккаунтах в качестве четкого призыва к действию для получения дохода.",
 		"DownloadBadge": "Значок Airtime и Загрузки Сообщения",
 		"CookiesHome": "To help us comply with GDPR we kindly ask you to make a choice about cookies. ", "CookiesHomeB": "We use essential cookies enabling basic functions like page navigation, language preferences and online support. The website cannot function properly without these cookies.",         "CookiesHomeC": "We know it’s annoying, sorry.",
-		"CookiesAccept": "I accept",
-		"CookiesNoAccept": "I do not accept",
-		"CookiesMoreInfo": "Info",
-		"readAcceptA": "I have read and accept the ",
-		"readAcceptB": " of this website.",
-		"vpnForFree": "VPN for free",
-		"vpnText": "Surf the internet anonymously"
+		"CookiesAccept": "Я согласен",
+		"CookiesNoAccept": "Я не согласен",
+		"CookiesMoreInfo": "Информация",
+		"readAcceptA": "Я прочитал и принимаю ",
+		"readAcceptB": " для этого сайта.",
+		"vpnForFree": "VPN бесплатно",
+		"vpnText": "Будь в интернете анонимно"
 	},
 	"transactionError": "Ошибка транзакции",
 	"transactionErrorText": " Нам очень жаль, но в процессе отправки ваших токенов TUBE произошла ошибка. Пожалуйста, свяжитесь с нами, чтобы завершить покупку.",
 	"conversionRateError": "Conversion rate error",
-	"theCurrencyConversionRateChanged": "The currency conversion rate changed too much between requests, please try again."
+	"theCurrencyConversionRateChanged": "Курс конвертации валюты слишком сильно изменился между запросами. Пожалуйста, попробуйте еще раз."
 }
