@@ -44,7 +44,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Asset viewer",
+    "message": "uBlock₀ — Resurser",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -152,7 +152,7 @@
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipNoScripting2": {
-    "message": "Klicka för att inte längre inaktivera JavaScript på den här webbplatsen",
+    "message": "Klicka för att aktivera JavaScript på den här webbplatsen",
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipGlobalRules": {
@@ -184,7 +184,7 @@
     "description": ""
   },
   "popup3pPassiveRulePrompt": {
-    "message": "Tredjeparts-css/bilder",
+    "message": "CSS\/bilder från tredjeparter",
     "description": ""
   },
   "popupInlineScriptRulePrompt": {
@@ -252,7 +252,7 @@
     "description": "English: Show the number of blocked requests on the icon"
   },
   "settingsTooltipsPrompt": {
-    "message": "Inaktivera tipsrutor",
+    "message": "Inaktivera verktygstips",
     "description": "A checkbox in the Settings pane"
   },
   "settingsContextMenuPrompt": {
@@ -408,7 +408,7 @@
     "description": "The label for the checkbox used to import external filter lists"
   },
   "3pExternalListsHint": {
-    "message": "En webbadress per rad. Rader med prefixet &lsquo;!&rsquo; kommer att ignoreras. Ogiltiga webbadresser kommer också ignoreras.",
+    "message": "En webbadress per rad. Ogiltiga webbadresser kommer att ignoreras utan meddelande.",
     "description": "Short information about how to use the textarea to import external filter lists by URL"
   },
   "3pExternalListObsolete": {
@@ -416,7 +416,7 @@
     "description": "used as a tooltip for the out-of-date icon beside a list"
   },
   "3pLastUpdate": {
-    "message": "Senast uppdaterad: {{ago}}\nTryck för att påtvinga en uppdatering.",
+    "message": "Senast uppdaterad: {{ago}}\nKlicka för att påtvinga en uppdatering.",
     "description": "used as a tooltip for the clock icon beside a list"
   },
   "3pUpdating": {
@@ -428,7 +428,7 @@
     "description": "used as a tooltip for error icon beside a list"
   },
   "1pFormatHint": {
-    "message": "Ett filter per rad. Ett filter kan vara ett vanligt värdnamn eller ett Adblock Plus-kompatibelt filter. Rader med prefixet &lsquo;!&rsquo; kommer att ignoreras.",
+    "message": "Ett filter per rad. Ett filter kan vara ett vanligt värdnamn eller ett Adblock Plus-kompatibelt filter. Rader med prefixet <code>!<\/code> kommer att ignoreras.",
     "description": "Short information about how to create custom filters"
   },
   "1pImport": {
@@ -635,6 +635,10 @@
     "message": "Bidragsgivare",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Externa beroenden (GPLv3-kompatibla):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Säkerhetskopiera till fil",
     "description": "Text for button to create a backup of all settings"
@@ -752,7 +756,7 @@
     "description": "tooltip"
   },
   "cloudPullAndMerge": {
-    "message": "Importera från molnlagring och slå ihop med aktuella inställningar",
+    "message": "Importera från molnlagring och sammanfoga med aktuella inställningar",
     "description": "tooltip"
   },
   "cloudNoData": {
@@ -772,7 +776,7 @@
     "description": "for generic 'Submit' buttons"
   },
   "genericApplyChanges": {
-    "message": "Verkställ ändringar",
+    "message": "Verkställ ändringarna",
     "description": "for generic 'Apply changes' buttons"
   },
   "genericRevert": {
@@ -846,5 +850,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

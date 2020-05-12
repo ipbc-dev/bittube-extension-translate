@@ -148,11 +148,11 @@
     "description": "Tooltip for the no-remote-fonts per-site switch"
   },
   "popupTipNoScripting1": {
-    "message": "Кликните да потпуно онемогућите JavaScript на овом сајту",
+    "message": "Кликните да онемогућите JavaScript на овом сајту",
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipNoScripting2": {
-    "message": "Кликните да JavaScript не буде више потпуно онемогућен на овом сајту",
+    "message": "Кликните да JavaScript не буде више онемогућен на овом сајту",
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipGlobalRules": {
@@ -635,6 +635,10 @@
     "message": "Сарадници",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Спољне зависности (компатибилно са GPLv3):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Сачувај резервну копију у датотеку",
     "description": "Text for button to create a backup of all settings"
@@ -846,5 +850,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

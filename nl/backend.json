@@ -31,11 +31,12 @@
     "toVerifyBankText": "To verify your bank account, we will send you the equivalent of 0.01 USD. You will find the transaction in the next days in your bank statement. The transaction contains a code composed as",
     "pleaseUseTheCode": "Please use this code in the Account settings in 'Convert my TUBEs' to verify your bank account.",
     "yourOrder": "your order has been created",
-    "toFinishTheProcess": "To complete the process make a",
+    "toFinishTheProcess": "To complete the process make a bank transfer",
     "transferin72h": "within the next 24 hours",
     "dataBellow": "using the data bellow:",
     "beneficiary": "Beneficiary:",
     "bankName": "Bank name:",
+    "IBAN": "IBAN:",
     "accountNumber": "Account number:",
     "amountToPay": "Amount to pay:",
     "amountToReceive": "Amount to receive:",
@@ -80,6 +81,12 @@
     "verificationStarted": "Verification process started",
     "weHaveReceived":"We have received your documents for verification. The process can take up to 72 hours. ",
     "noteVerification": "Note: On weekends and official holidays, it can take longer. ",
-    "thanksForYourPatience": "Thank you for your patience."
+    "thanksForYourPatience": "Thank you for your patience.",
+    "wireTransferDetails": "Wire transfer details",
+    "noteGBP1": "This account supports incoming payments via CHAPS, BACS and Faster Payments.",
+    "noteGBP2": "This account supports incoming domestic payments in GBP only.",
+    "noteUSD6": "This account supports incoming payments via SWIFT only.",
+    "noteUSD7": "Your bank may charge you for international payments.",
+    "noteUSD8": "If your bank asks for your intermediary BIC, it’s BARCGB22."
   }
 }

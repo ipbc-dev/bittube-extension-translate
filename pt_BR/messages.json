@@ -348,7 +348,7 @@
     "description": "A button in the in the _3rd-party filters_ pane"
   },
   "3pParseAllABPHideFiltersPrompt1": {
-    "message": "Analisar e aplicar filtros cosméticos",
+    "message": "Processar e aplicar filtros cosméticos",
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
@@ -635,6 +635,10 @@
     "message": "Colaboradores",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Dependências externas (compatíveis com GPLv3):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Backup para arquivo",
     "description": "Text for button to create a backup of all settings"
@@ -846,5 +850,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

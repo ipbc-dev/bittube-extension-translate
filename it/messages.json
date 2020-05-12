@@ -56,7 +56,7 @@
     "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Click per disabilitare uBo per questo sito.\n\nCtrl+click per disabilitare uBo solo su questa pagina.",
+    "message": "Click per disabilitare uBlock₀ per questo sito.\n\nCtrl+click per disabilitare uBlock₀ solo su questa pagina.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
@@ -280,7 +280,7 @@
     "description": "English: "
   },
   "settingsHyperlinkAuditingDisabledPrompt": {
-    "message": "Disattivare l'auditing del collegamento ipertestuale",
+    "message": "Disattiva la revisione dei collegamenti ipertestuali",
     "description": "English: "
   },
   "settingsWebRTCIPAddressHiddenPrompt": {
@@ -635,6 +635,10 @@
     "message": "Collaboratori",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Dipendenze esterne (GPLv3-compatibili):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Crea file di backup...",
     "description": "Text for button to create a backup of all settings"
@@ -846,5 +850,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

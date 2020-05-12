@@ -10,8 +10,8 @@
   "viewOnly": "nur zur Ansicht Ihrer",
   "wallet": "Wallet",
   "viewOnlyWalletText": "Saldo und Transaktionen werden bei allen Ausgaben nicht berücksichtigt. Wenn es zu ausgehenden Transaktionen gekommen ist, wird der Saldo hier falsch und diese Transaktionen nicht angezeigt.",
-  "address": "Adresse",
-  "transactionsHistory": "Transaktionsverlauf",
+  "address": "TUBE-Wallet-Adresse",
+  "transactionsHistory": "TUBE-Wallet-Transaktionsverlauf",
   "value": "Wert",
   "dateReceived": "Eingangsdatum",
   "ringSize": "Ringgröße",
@@ -166,6 +166,7 @@
   "stakingSetupSelfText1": "Sie müssen die Hälfte der Staking 2/2 Multisig-Wallet, erstellen. Der einfachste Weg ist, den folgenden Kundenhelfer zu verwenden, um es zu generieren.",
   "stakingSetupSelfText2": "Wenn Sie zur Eingabe von Multisig-Informationen aufgefordert werden, geben Sie Folgendes ein.",
   "stakingSetupSelfText3": "Kopieren Sie nach der Generierung sowohl die neue Multisig-Wallet-Adresse nach \"Neue 2/2 Multisig-Wallet:\" als auch die Multisig-Nachricht unten \"Senden Sie die folgende Multisig-Nachricht an den Initiator:\" in die entsprechenden Felder.",
+  "stakingGuiDownloadText": "Um weitere Funktionen, einschließlich der Auszahlung von Transaktionen nutzen zu können,laden Sie bitte diese Datei herunter",
   "reward_level_user_none": "Kein",
   "reward_level_module_none": "Kein",
   "reward_level_user_0": "Basic",
@@ -178,5 +179,10 @@
   "reward_level_module_4": "Verifiziert",
   "reward_level_module_5": "Plus verifiziert",
   "reward_level_module_6": "Max verifiziert",
-  "reward_level_module_7": "Business"
+  "reward_level_module_7": "Business",
+  "enter6Digits": "Bitte geben Sie Ihren 6-stelligen Code ein:",
+  "verify": "Verifizieren",
+  "code6digits": "6-stelliger Code",
+  "userRewards": "Benutzerprämien",
+  "moduleRewards": "Modulprämien"
 }

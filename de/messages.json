@@ -148,11 +148,11 @@
     "description": "Tooltip for the no-remote-fonts per-site switch"
   },
   "popupTipNoScripting1": {
-    "message": "Klicken, um Javascript auf dieser Seite komplett zu deaktivieren",
+    "message": "Klicken, um JavaScript auf dieser Website zu deaktivieren",
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipNoScripting2": {
-    "message": "Klicken, um JavaScript auf dieser Seite nicht mehr zu deaktivieren",
+    "message": "Klicken, um JavaScript auf dieser Seite wieder zuzulassen",
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipGlobalRules": {
@@ -496,7 +496,7 @@
     "description": "English: dynamic rule syntax and full documentation."
   },
   "whitelistPrompt": {
-    "message": "Whitelist-Regeln schreiben vor, auf welchen Webseiten uBlock₀ nicht aktiv sein soll. Ein Eintrag pro Zeile. Ungültige Regeln werden stillschweigend ignoriert und auskommentiert.",
+    "message": "Whitelist-Regeln schreiben vor, auf welchen Webseiten uBlock₀ nicht aktiv sein soll. Ein Eintrag pro Zeile. Ungültige Regeln werden stillschweigend ignoriert.",
     "description": "English: An overview of the content of the dashboard's Whitelist pane."
   },
   "whitelistImport": {
@@ -634,6 +634,10 @@
   "aboutContributors": {
     "message": "Mitwirkende",
     "description": "English: Contributors"
+  },
+  "aboutDependencies": {
+    "message": "Externe Abhängigkeiten (GPLv3-kompatibel):",
+    "description": "Shown in the About pane"
   },
   "aboutBackupDataButton": {
     "message": "Backup in eine Datei",
@@ -845,5 +849,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Schliessen",
+    "description": "Schliessen"
   }
 }

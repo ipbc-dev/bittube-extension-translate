@@ -635,6 +635,10 @@
     "message": "Контрибьюторы",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Внешние зависимости (GPLv3-совместимые):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Резервное копирование в файл",
     "description": "Text for button to create a backup of all settings"
@@ -846,5 +850,9 @@
   },
   "ublockOptions": {
     "message": "Опции"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

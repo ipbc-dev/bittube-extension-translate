@@ -32,10 +32,11 @@
     "pleaseUseTheCode": "Utilice este código en la configuración de la Cuenta en 'Convertir mis TUBES' para verificar su cuenta bancaria.",
     "yourOrder": "tu orden ha sido creada",
     "toFinishTheProcess": "Para finalizar la compra realiza una",
-    "transferin72h": "transferencia bancaria en las proximas 72h",
+    "transferin72h": "transferencia bancaria en las proximas 24h",
     "dataBellow": "usando la siguiente informacion:",
     "beneficiary": "Beneficiario:",
     "bankName": "Nombre del banco:",
+    "IBAN": "IBAN:",
     "accountNumber": "Numero de cuenta:",
     "amountToPay": "Cantidad a pagar:",
     "amountToReceive": "Cantidad a recibir:",
@@ -80,6 +81,12 @@
     "verificationStarted": "Verification process started",
     "weHaveReceived":"We have received your documents for verification. The process can take up to 72 hours. ",
     "noteVerification": "Note: On weekends and official holidays, it can take longer. ",
-    "thanksForYourPatience": "Thank you for your patience."
+    "thanksForYourPatience": "Thank you for your patience.",
+    "wireTransferDetails": "Wire transfer details",
+    "noteGBP1": "This account supports incoming payments via CHAPS, BACS and Faster Payments.",
+    "noteGBP2": "This account supports incoming domestic payments in GBP only.",
+    "noteUSD6": "This account supports incoming payments via SWIFT only.",
+    "noteUSD7": "Your bank may charge you for international payments.",
+    "noteUSD8": "If your bank asks for your intermediary BIC, it’s BARCGB22."
   }
 }

@@ -32,7 +32,7 @@
     "description": "appears as tab name in dashboard"
   },
   "shortcutsPageName": {
-    "message": "Shortcuts",
+    "message": "Bližnjice",
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
@@ -308,7 +308,7 @@
     "description": ""
   },
   "settingsNoScriptingPrompt": {
-    "message": "Disable JavaScript",
+    "message": "Onemogoči JavaScript",
     "description": "The default state for the per-site no-scripting switch"
   },
   "settingsNoCSPReportsPrompt": {
@@ -635,6 +635,10 @@
     "message": "Razvijalci",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "External dependencies (GPLv3-compatible):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Naredi varnostno kopijo v datoteko",
     "description": "Text for button to create a backup of all settings"
@@ -788,7 +792,7 @@
     "description": "A context menu entry, present when large media elements have been blocked on the current site"
   },
   "shortcutCapturePlaceholder": {
-    "message": "Type a shortcut",
+    "message": "Vnesite bližnjico",
     "description": "Placeholder string for input field used to capture a keyboard shortcut"
   },
   "dummy": {
@@ -846,5 +850,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

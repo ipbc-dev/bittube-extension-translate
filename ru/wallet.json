@@ -166,6 +166,7 @@
   "stakingSetupSelfText1": "Вам нужно будет создать половину 2/2 стекинг-кошелька с мультиподписью. Самый простой способ - использовать следующий клиентский помощник для его генерации..",
   "stakingSetupSelfText2": "Когда вас попросят ввести Multisig-информацию, введите следующее.",
   "stakingSetupSelfText3": "После генерации скопируйте оба адреса нового multisig-кошелька после \"Created new 2/2 multisig wallet:\" and the multisig message below \"Send the following multisig message to the initiator:\" to the corresponding fields.",
+  "stakingGuiDownloadText": "For more functionality including withdrawing transactions please download the",
   "reward_level_user_none": "Отсутствует",
   "reward_level_module_none": "Отсутствует",
   "reward_level_user_0": "Базовый",
@@ -178,5 +179,11 @@
   "reward_level_module_4": "Проверенный",
   "reward_level_module_5": "Проверенный Plus",
   "reward_level_module_6": "Проверенный Max",
-  "reward_level_module_7": "Бизнес"
+  "reward_level_module_7": "Бизнес",
+  "enter6Digits": "Please enter your 6-digit 2FA code:",
+  "verify": "Verify",
+  "code6digits": "6 digits code",
+  "userRewards": "User Rewards",
+  "moduleRewards": "Module Rewards",
+  "loginSocialMedia": "Log in or sign up with a social account"
 }

@@ -152,7 +152,7 @@
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipNoScripting2": {
-    "message": "Feu clic per no inhabilitar completament el JavaScript en aquest lloc",
+    "message": "Feu clic per no inhabilitar el JavaScript en aquest lloc",
     "description": "Tooltip for the no-scripting per-site switch"
   },
   "popupTipGlobalRules": {
@@ -635,6 +635,10 @@
     "message": "Col·laboradors",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Dependències externes (compatibles amb GPLv3):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
     "message": "Còpia de seguretat a un fitxer",
     "description": "Text for button to create a backup of all settings"
@@ -845,5 +849,9 @@
   },
   "ublockOptions": {
     "message": "Options"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }

@@ -52,7 +52,7 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Clic: deshabilitar/habilitar uBlock₀ en este sitio.\n\nCtrl + clic: deshabilitar uBlock₀ solo en esta página.",
+    "message": "Clic: deshabilitar/habilitar uBlock₀ en este sitio.\n\nCtrl+clic: deshabilitar uBlock₀ solo en esta página.",
     "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
   },
   "popupPowerSwitchInfo1": {
@@ -84,7 +84,7 @@
     "description": "English: or"
   },
   "popupTipDashboard": {
-    "message": "Abrir Panel de control",
+    "message": "Abrir panel de control",
     "description": "English: Click to open the dashboard"
   },
   "popupTipZapper": {
@@ -480,7 +480,7 @@
     "description": ""
   },
   "rulesExport": {
-    "message": "Exportar a archivo",
+    "message": "Exportar a archivo...",
     "description": ""
   },
   "rulesDefaultFileName": {
@@ -635,8 +635,12 @@
     "message": "Colaboradores",
     "description": "English: Contributors"
   },
+  "aboutDependencies": {
+    "message": "Dependencias externas (compatibles con GPLv3):",
+    "description": "Shown in the About pane"
+  },
   "aboutBackupDataButton": {
-    "message": "Respaldar en archivo",
+    "message": "Respaldar en archivo...",
     "description": "Text for button to create a backup of all settings"
   },
   "aboutBackupFilename": {
@@ -696,11 +700,11 @@
     "description": "English: {{value}} days ago"
   },
   "showDashboardButton": {
-    "message": "Mostrar Panel de control",
+    "message": "Mostrar panel de control",
     "description": "Firefox/Fennec-specific: Show Dashboard"
   },
   "showNetworkLogButton": {
-    "message": "Mostrar registro",
+    "message": "Mostrar registro de peticiones",
     "description": "Firefox/Fennec-specific: Show Logger"
   },
   "fennecMenuItemBlockingOff": {
@@ -845,5 +849,9 @@
   },
   "ublockOptions": {
     "message": "Opciones"
+  },
+  "closeUblock": {
+    "message": "Close",
+    "description": "Close"
   }
 }
